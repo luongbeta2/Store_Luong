@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "group_name": "Wikipedia",
+      "item": [
+        {
+          "name": "English",
+          "source": "url_1",
+          "size": "xxx"
+        },
+        {
+          "name": "Simple English",
+          "source": "url_2",
+          "size": "xxx"
+        }
+      ]
+    },
+    
+    {
+      "group_name": "Wikipedia",
+      "item": [
+        {
+          "name": "English",
+          "source": "url_1",
+          "size": "xxx"
+        },
+        {
+          "name": "Simple English",
+          "source": "url_2",
+          "size": "xxx"
+        }
+      ]
+    }
+  ]
+}
