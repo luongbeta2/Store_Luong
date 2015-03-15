@@ -6,28 +6,60 @@
         {
           "name": "English",
           "source": "url_1",
-          "size": "xxx"
+          "size": "xxx",
+          "version": "xxx"
         },
         {
           "name": "Simple English",
           "source": "url_2",
-          "size": "xxx"
+          "size": "xxx",
+          "version": "xxx"
         }
       ]
     },
-    
     {
-      "group_name": "Wikipedia",
+      "group_name": "Wiktionary",
       "item": [
         {
           "name": "English",
-          "source": "url_1",
-          "size": "xxx"
+          "source": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
+          "size": "648 MB",
+          "version": "1"
         },
         {
-          "name": "Simple English",
-          "source": "url_2",
-          "size": "xxx"
+          "name": "French",
+          "source": "https://drive.google.com/open?id=0B7CmkKISlSpBNDBxNkdmaG00Qmc&authuser=0",
+          "size": "387 MB",
+          "version": "1"
+        },
+        {
+          "name": "Russian",
+          "source": "https://drive.google.com/open?id=0B7CmkKISlSpBdWZqekV4aW5SOWc&authuser=0",
+          "size": "139 MB",
+          "version": "1"
+        },
+         {
+          "name": "Korean",
+          "source": "https://drive.google.com/open?id=0B7CmkKISlSpBVkJuRzRVVWFkVWs&authuser=0",
+          "size": "50 MB",
+          "version": "1"
+        },
+        {
+          "name": "Hindi",
+          "source": "https://drive.google.com/open?id=0B7CmkKISlSpBVkJuRzRVVWFkVWs&authuser=0",
+          "size": "27 MB",
+          "version": "1"
+        }
+      ]
+    },
+    {
+      "group_name": "Wikibooks",
+      "item": [
+        {
+          "name": "Russian",
+          "source": "https://drive.google.com/open?id=0B7CmkKISlSpBNWttNkhiU3VOMjA&authuser=0",
+          "size": "12 MB",
+          "version": "xxx"
         }
       ]
     }
