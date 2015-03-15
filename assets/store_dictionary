@@ -6,14 +6,8 @@
         {
           "name": "English",
           "source": "url_1",
-          "size": "xxx",
-          "version": "xxx"
-        },
-        {
-          "name": "Simple English",
-          "source": "url_2",
-          "size": "xxx",
-          "version": "xxx"
+          "size": "1",
+          "version": "1"
         }
       ]
     },
@@ -59,7 +53,7 @@
           "name": "Russian",
           "source": "https://drive.google.com/open?id=0B7CmkKISlSpBNWttNkhiU3VOMjA&authuser=0",
           "size": "12 MB",
-          "version": "xxx"
+          "version": "1"
         }
       ]
     }
