@@ -4,6 +4,7 @@
       "group_name": "Wiktionary",
       "name": "English",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
+      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
       "size": "648 MB",
       "version": "1"
     },
@@ -11,6 +12,7 @@
       "group_name": "Wiktionary",
       "name": "French",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBNDBxNkdmaG00Qmc&authuser=0",
+      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
       "size": "387 MB",
       "version": "1"
     },
@@ -18,6 +20,7 @@
       "group_name": "Wiktionary",
       "name": "Russian",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBdWZqekV4aW5SOWc&authuser=0",
+      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
       "size": "139 MB",
       "version": "1"
     },
@@ -25,6 +28,7 @@
       "group_name": "Wiktionary",
       "name": "Korean",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBVkJuRzRVVWFkVWs&authuser=0",
+      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
       "size": "50 MB",
       "version": "1"
     },
@@ -32,6 +36,7 @@
       "group_name": "Wiktionary",
       "name": "Hindi",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBVkJuRzRVVWFkVWs&authuser=0",
+      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
       "size": "27 MB",
       "version": "1"
     }
