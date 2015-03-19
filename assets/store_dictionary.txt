@@ -4,40 +4,80 @@
       "group_name": "Wiktionary",
       "name": "English",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
-      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
+      "source_2": "https://drive.google.com/file/d/0B8ENyWhpePB8RUpQYVlVV1hiakE/view?usp=sharing",
       "size": "648 MB",
-      "version": "1"
-    },
-    {
-      "group_name": "Wiktionary",
-      "name": "French",
-      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBNDBxNkdmaG00Qmc&authuser=0",
-      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
-      "size": "387 MB",
       "version": "1"
     },
     {
       "group_name": "Wiktionary",
       "name": "Russian",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBdWZqekV4aW5SOWc&authuser=0",
-      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
+      "source_2": "https://drive.google.com/file/d/0BxLbnySlX_F4YWdlc29QUGNkaGM/view?usp=sharing",
       "size": "139 MB",
       "version": "1"
     },
     {
       "group_name": "Wiktionary",
-      "name": "Korean",
-      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBVkJuRzRVVWFkVWs&authuser=0",
-      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
-      "size": "50 MB",
+      "name": "French",
+      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBNDBxNkdmaG00Qmc&authuser=0",
+      "source_2": "https://drive.google.com/file/d/0B8ENyWhpePB8RVlyczJzUUxWZDQ/view?usp=sharing",
+      "size": "387 MB",
       "version": "1"
     },
     {
       "group_name": "Wiktionary",
       "name": "Hindi",
       "source": "https://drive.google.com/open?id=0B7CmkKISlSpBVkJuRzRVVWFkVWs&authuser=0",
-      "source_2": "https://drive.google.com/open?id=0B7CmkKISlSpBbUVMS1RWX19INXc&authuser=0",
+      "source_2": "http://goo.gl/G9w9w7",
       "size": "27 MB",
+      "version": "1"
+    },
+    {
+      "group_name": "Wiktionary",
+      "name": "Japanese",
+      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBblhrUDE4TmxibHM&authuser=0",
+      "source_2": "https://bit.ly/18CpagJ",
+      "size": "32 MB",
+      "version": "1"
+    },
+    {
+      "group_name": "WordNet 3.0",
+      "name": "WordNet",
+      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBN3RHejk1bW1ScEE&authuser=0",
+      "source_2": "https://drive.google.com/file/d/0B8ENyWhpePB8N1czcHd0bzBDZUE/view?usp=sharing",
+      "size": "22 MB",
+      "version": "1"
+    },
+    {
+      "group_name": "Wikipedia",
+      "name": "English",
+      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBY21PaFlBMXd1UjQ&authuser=0",
+      "source_2": "magnet:?xt=urn:btih:86d3e04f4e9c6685d69c4b803dfdce4a6df57e43&dn=enwiki-20141201.slob",
+      "size": "11 GB",
+      "version": "1"
+    },
+    {
+      "group_name": "Wikipedia",
+      "name": "German",
+      "source": "https://drive.google.com/open?id=0B-LQDcmsBlqIVU5YeTE0TWxYdWc&authuser=1",
+      "source_2": "magnet:?xt=urn:btih:9c21618ee0f56ef3b7164b35c2f464bdc41b1b85&dn=dewiki-20140303.ext_img.lzma2.slob&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80",
+      "size": "3 GB",
+      "version": "1"
+    },
+    {
+      "group_name": "Wikipedia",
+      "name": "Russian",
+      "source": "https://drive.google.com/open?id=0B-LQDcmsBlqIbV9SaFNjQ1BobGs&authuser=1",
+      "source_2": "magnet:?xt=urn:btih:28a7b1cb8dd107555fc0f1aa9e07b507b33779c8&dn=ruwiki-20150319.slob&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80",
+      "size": "2.9 GB",
+      "version": "1"
+    },
+    {
+      "group_name": "Wikivoyage",
+      "name": "English",
+      "source": "https://drive.google.com/open?id=0B7CmkKISlSpBTTc5ZDkzY293MDQ&authuser=0",
+      "source_2": "https://mega.co.nz/#!rdAUXJxZ!-HqEzprdigPpSplR-9AWjxrdkVKe6_OoRgRJ7PdZ0_0",
+      "size": "84 MB ",
       "version": "1"
     }
   ]
