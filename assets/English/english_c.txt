@@ -12,7 +12,7 @@
   {
     "level": "c",
     "stt": 2,
-    "question_content": "She can look back on her career with great …………",
+    "question_content": "She can look back on her career with great ……………..",
     "a": "satisfied",
     "b": "satisfaction",
     "c": "satisfactory",
@@ -22,7 +22,7 @@
   {
     "level": "c",
     "stt": 3,
-    "question_content": "The captain as well as the passengers ………… frightened.",
+    "question_content": "The captain as well as the passengers …………….. frightened.",
     "a": "be",
     "b": "been",
     "c": "was",
@@ -32,7 +32,7 @@
   {
     "level": "c",
     "stt": 4,
-    "question_content": "Ann has got two sisters. Both of them ………… married.",
+    "question_content": "Ann has got two sisters. Both of them …………….. married.",
     "a": "has",
     "b": "have",
     "c": "is",
@@ -42,7 +42,7 @@
   {
     "level": "c",
     "stt": 5,
-    "question_content": "Each learner of English ………… a good dictionary.",
+    "question_content": "Each learner of English …………….. a good dictionary.",
     "a": "needs",
     "b": "need",
     "c": "is",
@@ -52,7 +52,7 @@
   {
     "level": "c",
     "stt": 6,
-    "question_content": "Money, nor fame, nor wealth ………… brought happiness to everybody",
+    "question_content": "Money, nor fame, nor wealth …………….. brought happiness to everybody",
     "a": "has",
     "b": "have",
     "c": "is",
@@ -62,7 +62,7 @@
   {
     "level": "c",
     "stt": 7,
-    "question_content": "They ………………… at this school before they became interpreters",
+    "question_content": "They …………………….. at this school before they became interpreters",
     "a": "have taught",
     "b": "had taught",
     "c": "taught",
@@ -82,7 +82,7 @@
   {
     "level": "c",
     "stt": 9,
-    "question_content": "Professional people expect you to call them when it is necessary\n……………… an appointment",
+    "question_content": "Professional people expect you to call them when it is necessary\n………………….. an appointment",
     "a": "to cancel",
     "b": "cancel",
     "c": "canceling",
@@ -132,7 +132,7 @@
   {
     "level": "c",
     "stt": 14,
-    "question_content": "The job has no …………",
+    "question_content": "The job has no ……………..",
     "a": "prospectively",
     "b": "prospects",
     "c": "prospector",
@@ -182,7 +182,7 @@
   {
     "level": "c",
     "stt": 19,
-    "question_content": "Mr. Green, along with his friends, ………… arriving here tonight",
+    "question_content": "Mr. Green, along with his friends, …………….. arriving here tonight",
     "a": "is",
     "b": "are",
     "c": "was",
@@ -202,7 +202,7 @@
   {
     "level": "c",
     "stt": 21,
-    "question_content": "Gunpowder, in some ways the most effective of all the explosive materials, ………… a mixture of potassium nitrate, charcoal, and sulfur.",
+    "question_content": "Gunpowder, in some ways the most effective of all the explosive materials, …………….. a mixture of potassium nitrate, charcoal, and sulfur.",
     "a": "were",
     "b": "had been",
     "c": "had",
@@ -212,7 +212,7 @@
   {
     "level": "c",
     "stt": 22,
-    "question_content": "In the relatively short history of industrial ………… in the United States,\nNew York city has played a vital role.",
+    "question_content": "In the relatively short history of industrial …………….. in the United States,\nNew York city has played a vital role.",
     "a": "developed",
     "b": "development",
     "c": "developing",
@@ -232,7 +232,7 @@
   {
     "level": "c",
     "stt": 24,
-    "question_content": "She has ………… the conditions for entry into the college.",
+    "question_content": "She has …………….. the conditions for entry into the college.",
     "a": "satisfied",
     "b": "satisfaction",
     "c": "satisfactory",
@@ -272,7 +272,7 @@
   {
     "level": "c",
     "stt": 28,
-    "question_content": "You can’t ………… to learn a foreign language in a week.",
+    "question_content": "You can’t …………….. to learn a foreign language in a week.",
     "a": "expectant",
     "b": "expected",
     "c": "expect",
@@ -312,7 +312,7 @@
   {
     "level": "c",
     "stt": 32,
-    "question_content": "I can’t see the ………… of sitting on the beach all day.",
+    "question_content": "I can’t see the …………….. of sitting on the beach all day.",
     "a": "attract",
     "b": "attractive",
     "c": "attractiveness",
@@ -332,7 +332,7 @@
   {
     "level": "c",
     "stt": 34,
-    "question_content": "Bricks baked in a kiln are much harder ………… that are dried in the sun.",
+    "question_content": "Bricks baked in a kiln are much harder …………….. that are dried in the sun.",
     "a": "those",
     "b": "than do those",
     "c": "than those",
@@ -352,7 +352,7 @@
   {
     "level": "c",
     "stt": 36,
-    "question_content": "Schizophrenia, a behavioral disorder typified by a fundamental break with reality, ………… by genetic predisposition, stress, drugs, or infections.",
+    "question_content": "Schizophrenia, a behavioral disorder typified by a fundamental break with reality, …………….. by genetic predisposition, stress, drugs, or infections.",
     "a": "may be triggered",
     "b": "may triggered",
     "c": "may trigger",
@@ -382,7 +382,7 @@
   {
     "level": "c",
     "stt": 39,
-    "question_content": "In purchasing a winter coat, it is very important ………… it on with heavy clothing underneath",
+    "question_content": "In purchasing a winter coat, it is very important …………….. it on with heavy clothing underneath",
     "a": "for trying",
     "b": "to try",
     "c": "of trying",
@@ -402,7 +402,7 @@
   {
     "level": "c",
     "stt": 41,
-    "question_content": "The result of the experiment was …………",
+    "question_content": "The result of the experiment was ……………..",
     "a": "satisfied",
     "b": "satisfaction",
     "c": "satisfactory",
@@ -422,7 +422,7 @@
   {
     "level": "c",
     "stt": 43,
-    "question_content": "Some executives require that the secretary ………… responsible for writing all reports as well as for balancing the books.",
+    "question_content": "Some executives require that the secretary …………….. responsible for writing all reports as well as for balancing the books.",
     "a": "is",
     "b": "be",
     "c": "was",
@@ -438,5 +438,2565 @@
     "c": "perfectly",
     "d": "perfection",
     "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 45,
+    "question_content": "This law is purely ……………...",
+    "a": "prospect",
+    "b": "prospects",
+    "c": "prospector",
+    "d": "prospective",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 46,
+    "question_content": "The number of the days in a week …………….. seven.",
+    "a": "needs",
+    "b": "are",
+    "c": "need",
+    "d": "is",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 47,
+    "question_content": "Although the red cross accepts blood from most donors, the nurses will not ………….. you give blood if you have just had a cold.",
+    "a": "let",
+    "b": "leave",
+    "c": "want",
+    "d": "need",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 48,
+    "question_content": "Most comets have two kinds of tails, one made up of dust, ………………made up of electrically charged particles called plasma",
+    "a": "one another",
+    "b": "the other",
+    "c": "other ones",
+    "d": "each other",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 49,
+    "question_content": "By 1820, there were over sixty steamboats on the Mississippi river,……………… were quite luxurious",
+    "a": "many of them",
+    "b": "which many",
+    "c": "many of which",
+    "d": "many that",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 50,
+    "question_content": "The native people of the Americans are called Indians because when Columbus landed in the Bahamas in 1492, he thought that he …………….. the east Indies",
+    "a": "has reached",
+    "b": "has been reached",
+    "c": "had been reached",
+    "d": "had reached",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 51,
+    "question_content": "Most school-leavers have the …………….. to go to work because they want to live independently",
+    "a": "keen",
+    "b": "keenly",
+    "c": "keenness",
+    "d": "keener",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 52,
+    "question_content": "…………….. objections to the plan haven’t happened",
+    "a": "Expectant",
+    "b": "Expected",
+    "c": "Expect",
+    "d": "Expectation",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 53,
+    "question_content": "Many students are so afraid ……………… failing that they deny all invitations.",
+    "a": "at",
+    "b": "about",
+    "c": "to",
+    "d": "of",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 54,
+    "question_content": "It is important that the TOEFL office …………….. an applicant's registration.",
+    "a": "will confirm",
+    "b": "confirm",
+    "c": "confirms",
+    "d": "must confirm",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 55,
+    "question_content": "Please state your name, age and ……………..",
+    "a": "occupied (v)",
+    "b": "occupied (adj)",
+    "c": "occupation",
+    "d": "occupational",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 56,
+    "question_content": "Deserts are often formed …………….. they are cut off from rain-bearing winds by the surrounding mountain ranges",
+    "a": "because",
+    "b": "in spite of",
+    "c": "so",
+    "d": "due to",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 57,
+    "question_content": "…………….. that the English settled in Jamestown.",
+    "a": "In 1607 that it was",
+    "b": "That in 1607",
+    "c": "Because in 1607",
+    "d": "It was in 1607",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 58,
+    "question_content": "Staying in a hotel costs …………….. renting a room in a dormitory for a week.",
+    "a": "twice more than",
+    "b": "twice as much as",
+    "c": "as much twice as",
+    "d": "as much as twice",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 59,
+    "question_content": "When friends insist on …………….. expensive gifts, it makes most Americans uncomfortable",
+    "a": "them to accept",
+    "b": "their accepting",
+    "c": "they accepting",
+    "d": "they accept",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 60,
+    "question_content": "Do any of these designs …………….. you?",
+    "a": "attract",
+    "b": "attractive",
+    "c": "attractiveness",
+    "d": "attractively",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 61,
+    "question_content": "There are twenty species of wild roses in North America, all of which have prickly stems, pinnate leaves, and large flowers, which usually smell ………….",
+    "a": "sweetly",
+    "b": "sweet",
+    "c": "sweetness",
+    "d": "sweetish",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 62,
+    "question_content": "Having …………. the topics for their essays, the students were instructed to make either a preliminary outline or a rough draft.",
+    "a": "chose",
+    "b": "chosen",
+    "c": "choose",
+    "d": "choice",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 63,
+    "question_content": "Gilbert Stuart is considered by most art critics …………….. greatest portrait painter in the North American colonies.",
+    "a": "that he was",
+    "b": "as he was",
+    "c": "who was the",
+    "d": "the",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 64,
+    "question_content": "As a safety measure, the detonator for a nuclear device may be made of …………….., each of which is controlled by a different employee.",
+    "a": "two equipments",
+    "b": "two pieces of equipments",
+    "c": "two pieces of equipment",
+    "d": "two equipment pieces",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 65,
+    "question_content": "An equilateral triangle is a triangle …………….. and three angles of equal size.",
+    "a": "that have three sides of equal length",
+    "b": "it has three sides equally long",
+    "c": "that has three sides of equal length",
+    "d": "having three equal length sides in it",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 66,
+    "question_content": "Some students set confused ……………… having to suffer long and hard years before they attain any level of success.",
+    "a": "with",
+    "b": "in",
+    "c": "about",
+    "d": "of",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 67,
+    "question_content": "…………….. are found on the surface of the moon.",
+    "a": "Craters and waterless seas that",
+    "b": "When craters and waterless seas",
+    "c": "Craters and waterless seas",
+    "d": "Since craters and waterless seas",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 68,
+    "question_content": "His …………….. made him cry.",
+    "a": "fearful",
+    "b": "fearfulness",
+    "c": "fearless",
+    "d": "fearlessness",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 69,
+    "question_content": "…………….. two waves pass a given point simultaneously, they will have no effect on each other's subsequent motion.",
+    "a": "So that",
+    "b": "They are",
+    "c": "That",
+    "d": "If",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 70,
+    "question_content": "A child in the first grade tends to be …………….. all of the other children in the class.",
+    "a": "the same old to",
+    "b": "the same age than",
+    "c": "as old like",
+    "d": "the same age as",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 71,
+    "question_content": "I’m …………….. to succeed.",
+    "a": "determinant",
+    "b": "determination",
+    "c": "determine",
+    "d": "determined",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 72,
+    "question_content": "The bird's egg is such an efficient structure for protecting the embryo inside …………….. difficult for the hatchling to break.",
+    "a": "that is",
+    "b": "that",
+    "c": "and is",
+    "d": "that it is",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 73,
+    "question_content": "We had hoped …………….. the game, but the other team played very well.",
+    "a": "state university to win",
+    "b": "that state university win",
+    "c": "that state university would win",
+    "d": "state university's winning",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 74,
+    "question_content": "The artistic medium of clay is …………….. that images have been found near the remains of fires from the last ice age.",
+    "a": "so old",
+    "b": "such an old",
+    "c": "oldest",
+    "d": "old",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 75,
+    "question_content": "Unlike most Europeans, many Americans …………….. a bowl of cereal for breakfast every day.",
+    "a": "used to eating",
+    "b": "are used to eat",
+    "c": "are used to eating",
+    "d": "use to eat",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 76,
+    "question_content": "His body-guard will keep him safe ……………… the crowded.",
+    "a": "from",
+    "b": "on",
+    "c": "to",
+    "d": "of",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 77,
+    "question_content": "The most common form of treatment ……………….. mass inoculation and\nchlorination of water sources.",
+    "a": "it is",
+    "b": "they are",
+    "c": "is",
+    "d": "are",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 78,
+    "question_content": "People with exceptionally high intelligence quotients may not be the best employees since they become bored ……………… their work unless the job is constantly changing.",
+    "a": "of",
+    "b": "with",
+    "c": "in",
+    "d": "of",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 79,
+    "question_content": "Neither the mathematics department nor the biology department at state university requires that the students ……………… a thesis in order to graduate with a master's degree.",
+    "a": "must write",
+    "b": "write",
+    "c": "will write",
+    "d": "would write",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 80,
+    "question_content": "The oxygen content of mars is not ……………… to support life as we know it.",
+    "a": "sufficient enough",
+    "b": "too sufficient",
+    "c": "enough sufficient",
+    "d": "sufficient",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 81,
+    "question_content": "Students in the United States often support themselves by babysitting, working in restaurants, or ……………… taxicabs.",
+    "a": "they drive",
+    "b": "to drive",
+    "c": "driving",
+    "d": "drive",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 82,
+    "question_content": "She viewed the …………….. of a week alone in the house without much enthusiasm.",
+    "a": "prospect",
+    "b": "prospects",
+    "c": "prospector",
+    "d": "prospective",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 83,
+    "question_content": "Those of us who have a family history of heart disease should make yearly appointments with ……………… doctors.",
+    "a": "their",
+    "b": "our",
+    "c": "his",
+    "d": "her",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 84,
+    "question_content": "Although federal support for basic research programs ……………… much less than it was ten years ago, more funds are now available from the national science foundation.",
+    "a": "are",
+    "b": "is",
+    "c": "was",
+    "d": "were",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 85,
+    "question_content": "Located in New York, apartments cost more to rent than they …………. in other, smaller cities.",
+    "a": "do",
+    "b": "did",
+    "c": "will",
+    "d": "would",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 86,
+    "question_content": "This new model not only saves time but also …………. by operating on two batteries instead of four.",
+    "a": "energy",
+    "b": "to save energy",
+    "c": "save energy",
+    "d": "saves energy",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 87,
+    "question_content": "The government requires that a census be taken every ten years ……………. accurate statistics may be compiled.",
+    "a": "so",
+    "b": "so that",
+    "c": "such",
+    "d": "such that",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 88,
+    "question_content": "The main …………….. of economics success is our ability to control inflation.",
+    "a": "determinant",
+    "b": "determination",
+    "c": "determine",
+    "d": "determined",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 89,
+    "question_content": "Who is responsible ……………… the project?",
+    "a": "for",
+    "b": "to",
+    "c": "with",
+    "d": "about",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 90,
+    "question_content": "Television has little …………….. for me.",
+    "a": "attract",
+    "b": "attractive",
+    "c": "attraction",
+    "d": "attractively",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 91,
+    "question_content": "In 1975, according to the national center for health statistics, the average life expectancy for people born during that year …………….. 72.4 years.",
+    "a": "is",
+    "b": "were",
+    "c": "are",
+    "d": "was",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 92,
+    "question_content": "A …………….. mountaineer reached the top of the Himalaya last week.",
+    "a": "fearful",
+    "b": "fearfulness",
+    "c": "fearless",
+    "d": "fearlessness",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 93,
+    "question_content": "Traditionally, the flag is ………………. in the morning and taken down at night.",
+    "a": "raised",
+    "b": "raise",
+    "c": "risen",
+    "d": "rise",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 94,
+    "question_content": "One way to inform the public about factories that pollute the environment is through …………….. programs on TV.",
+    "a": "agricultural",
+    "b": "educational",
+    "c": "industrial",
+    "d": "cultural",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 95,
+    "question_content": "I didn’t enjoy this book on how to succeed in business. It wasn’t very ……………..",
+    "a": "poorly written",
+    "b": "well typed",
+    "c": "well written",
+    "d": "good written",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 96,
+    "question_content": "The corals can be divided into three groups, two of which …………… extinct.",
+    "a": "is",
+    "b": "are",
+    "c": "was",
+    "d": "were",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 97,
+    "question_content": "Without alphabetical order, dictionaries would be ……………… to use.",
+    "a": "possibility",
+    "b": "possible",
+    "c": "impossibility",
+    "d": "impossible",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 98,
+    "question_content": "I was shocked ……………… the news of the crashed plane.",
+    "a": "about",
+    "b": "with",
+    "c": "of",
+    "d": "at",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 99,
+    "question_content": "Jane Addams had already established full house in Chicago and ……………… her work in the women's suffrage movement when she was awarded the Nobel prize for peace.",
+    "a": "began",
+    "b": "begun",
+    "c": "begin",
+    "d": "beginning",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 100,
+    "question_content": "The extent to which an individual is a product of either heredity or environment ………………, but several theories have been proposed.",
+    "a": "cannot proved",
+    "b": "cannot be proved",
+    "c": "cannot prove",
+    "d": "can be proved",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 101,
+    "question_content": "Every country …………….. a national flag.",
+    "a": "is",
+    "b": "are",
+    "c": "has",
+    "d": "have",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 102,
+    "question_content": "Optical fibers ………………… to deliver laser light.",
+    "a": "can also used",
+    "b": "also can use",
+    "c": "can also be used",
+    "d": "also can be used",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 103,
+    "question_content": "The flag of the original colonies may or may not have been ………… by Betsy Ross during the revolution.",
+    "a": "made",
+    "b": "make",
+    "c": "to make",
+    "d": "making",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 104,
+    "question_content": "Goods for sale at …………….. prices.",
+    "a": "attract",
+    "b": "attractive",
+    "c": "attractive",
+    "d": "attractively",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 105,
+    "question_content": "Your mistakes in composition are similar ……………… his.",
+    "a": "by",
+    "b": "to",
+    "c": "on",
+    "d": "with",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 106,
+    "question_content": "Often a team of engineers is ……………….",
+    "a": "work on one project",
+    "b": "on one project work",
+    "c": "working on one project",
+    "d": "to working on one project",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 107,
+    "question_content": "A vacuum will neither conduct heat nor ……………….",
+    "a": "transmit sound waves",
+    "b": "transmitting sound waves",
+    "c": "sound waves are transmitted",
+    "d": "the transmission of sound waves",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 108,
+    "question_content": "To relieve pain caused by severe burns, prevent infection, and treat for shock, ………………..",
+    "a": "taking immediate steps",
+    "b": "to take immediate steps",
+    "c": "taken steps immediately",
+    "d": "take immediate steps",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 109,
+    "question_content": "All the cereal grains ………………. grow on the prairies and plains of the United States.",
+    "a": "but rice",
+    "b": "except the rice",
+    "c": "but for rice",
+    "d": "excepting rice",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 110,
+    "question_content": "All of them are freshmen, …………….. whom come from countryside.",
+    "a": "most of",
+    "b": "most",
+    "c": "both a and b are correct",
+    "d": "most of the",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 111,
+    "question_content": "…………….. thought was given, but all was not approved.",
+    "a": "A large number of",
+    "b": "A great deal of",
+    "c": "Many of",
+    "d": "Many",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 112,
+    "question_content": "Green and magenta are complementary colors located opposite each other on the color wheel, ………………..",
+    "a": "and blue and yellow so",
+    "b": "and too blue and yellow",
+    "c": "and so blue and yellow do",
+    "d": "and so are blue and yellow",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 113,
+    "question_content": "Double-stars orbit ………………. .",
+    "a": "each to the other",
+    "b": "each other",
+    "c": "each other one",
+    "d": "other each one",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 114,
+    "question_content": "A …………….. is a person who searches for valuable minerals.",
+    "a": "prospect",
+    "b": "prospects",
+    "c": "prospector",
+    "d": "prospective",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 115,
+    "question_content": "John F. Kennedy was the youngest president of the United States and ………………. to be assassinated.",
+    "a": "the fourth",
+    "b": "fourth",
+    "c": "four",
+    "d": "the four",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 116,
+    "question_content": "Oscillatona, one of the few plants that can move about, ………………. a wavy, gliding motion.",
+    "a": "having",
+    "b": "has",
+    "c": "being",
+    "d": "with",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 117,
+    "question_content": "Nitrogen must be ……………. with another element such as hydrogen or oxygen to be useful in agriculture or industry.",
+    "a": "combine",
+    "b": "combining",
+    "c": "to combine",
+    "d": "combined",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 118,
+    "question_content": "In ancient times and throughout the middle ages, many people believed that the earth …………… motionless.",
+    "a": "is",
+    "b": "are",
+    "c": "was",
+    "d": "were",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 119,
+    "question_content": "Anyone reproducing copyrighted works without permission of the holders of the copyrights ………….. breaking the law.",
+    "a": "are",
+    "b": "is",
+    "c": "was",
+    "d": "were",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 120,
+    "question_content": "Supersonic transport …………… the Concorde will probably be widely accepted as soon as problems of noise and atmospheric pollution are resolved.",
+    "a": "such",
+    "b": "so as",
+    "c": "so",
+    "d": "such as",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 121,
+    "question_content": "Because …………….. food is as nutritious for a baby as its mother's milk, many women are returning to the practice of breast feeding.",
+    "a": "not",
+    "b": "no",
+    "c": "none",
+    "d": "some",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 122,
+    "question_content": "Civil engineers had better ………… to use steel supports in concrete structures built on unstable geophysical sites.",
+    "a": "planning",
+    "b": "to plan",
+    "c": "plan",
+    "d": "plans",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 123,
+    "question_content": "Three dangerous criminals escaped ……………… prison yesterday.",
+    "a": "from",
+    "b": "for",
+    "c": "out",
+    "d": "for",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 124,
+    "question_content": "The exam results could …………….. your career.",
+    "a": "determinant",
+    "b": "determination",
+    "c": "determine",
+    "d": "determined",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 125,
+    "question_content": "If the oxygen supply in the atmosphere ………….. replenished by plants, it would soon be exhausted.",
+    "a": "were not",
+    "b": "was not",
+    "c": "had not been",
+    "d": "has not been",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 126,
+    "question_content": "I used to earn …………….. money, but then I lost my job.",
+    "a": "a lot of",
+    "b": "many",
+    "c": "lot",
+    "d": "few",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 127,
+    "question_content": "The practical and legal implications of euthanasia, the practice of causing the death of a person suffering from an incurable disease, are so controversial …………….. it is illegal in most countries.",
+    "a": "as",
+    "b": "when",
+    "c": "since",
+    "d": "that",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 128,
+    "question_content": "Since lightning was probably significant in the formation of life, understanding it might help us ……………. life itself.",
+    "a": "understanding",
+    "b": "understand",
+    "c": "understood",
+    "d": "to understanding",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 129,
+    "question_content": "Starfishes and sea urchins, members of the echinoderms or spiny skinned animals, are particularly ………………. because of their unusual structures.",
+    "a": "to interest",
+    "b": "interest",
+    "c": "interested",
+    "d": "interesting",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 130,
+    "question_content": "………. poetry is more enjoyable when it is read aloud.",
+    "a": "Almost",
+    "b": "Most",
+    "c": "Many",
+    "d": "Few",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 131,
+    "question_content": "It is essential that cancer …………. diagnosed and treated as early as possible in order to assure a successful cure.",
+    "a": "is",
+    "b": "been",
+    "c": "was",
+    "d": "be",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 132,
+    "question_content": "Products in this shop were …………….. arranged, displayed, presented on the shelves.",
+    "a": "attract",
+    "b": "attractive",
+    "c": "attraction",
+    "d": "attractively",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 133,
+    "question_content": "The battle field was a …………….. sight.",
+    "a": "fear",
+    "b": "fearsome",
+    "c": "fearlessly",
+    "d": "fearless",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 134,
+    "question_content": "A vine climbs from one tree to another, continuing to grow and support itself even when the original supporting tree is ……………. longer alive.",
+    "a": "no",
+    "b": "not",
+    "c": "any more",
+    "d": "none",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 135,
+    "question_content": "Parents have great …………….. for their children’s future.",
+    "a": "expectant",
+    "b": "expectancies",
+    "c": "expects",
+    "d": "expectations",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 136,
+    "question_content": "The consistency of protoplasm and that of glue …………….",
+    "a": "they are alike",
+    "b": "are similar to",
+    "c": "are similar",
+    "d": "the same",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 137,
+    "question_content": "The lights and appliances in most homes use alternating current …………….",
+    "a": "instead direct current",
+    "b": "instead of direct current",
+    "c": "that instead direct current",
+    "d": "for direct current instead",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 138,
+    "question_content": "When Franklin Roosevelt decided to run for a fourth term, the opposition said that he was …………….",
+    "a": "so old",
+    "b": "too old",
+    "c": "oldest",
+    "d": "very older",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 139,
+    "question_content": "The decomposition of microscopic animals at the bottom of the sea results in an accumulation of ……………. in porous rocks.",
+    "a": "the oil",
+    "b": "oil",
+    "c": "an oil",
+    "d": "oils",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 140,
+    "question_content": "They discussed the matter calmly and ……………..",
+    "a": "reason",
+    "b": "reasoned",
+    "c": "reasonable",
+    "d": "reasonably",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 141,
+    "question_content": "I saw a sample ……………… her work and it was quite impressed.",
+    "a": "of",
+    "b": "in",
+    "c": "on",
+    "d": "about",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 142,
+    "question_content": "The U.S. postal service policy for check approval includes a requirement that two pieces of identification ……………...",
+    "a": "must present",
+    "b": "presented",
+    "c": "be presented",
+    "d": "for presentation",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 143,
+    "question_content": "Nerve impulses ……………. to the brain at a speed of about one hundred yards per second.",
+    "a": "sending sensations",
+    "b": "to send sensations",
+    "c": "send sensations",
+    "d": "be send sensations",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 144,
+    "question_content": "Although exact statistics vary because of political changes, ……………. separate nation states are included in the official lists at any one time.",
+    "a": "more than two hundred",
+    "b": "as much as two hundred",
+    "c": "many as two hundred",
+    "d": "most that two hundred",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 145,
+    "question_content": "……………. owe much of their success as a group to their unusual powers of migration.",
+    "a": "That birds",
+    "b": "A bird",
+    "c": "The bird",
+    "d": "Birds",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 146,
+    "question_content": "I believe …………….. things openly.",
+    "a": "of discussing",
+    "b": "for discussing",
+    "c": "in discussing",
+    "d": "on discussing",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 147,
+    "question_content": "Research in the work place reveals that people work for many reasons ……………. .",
+    "a": "money beside",
+    "b": "money besides",
+    "c": "beside money",
+    "d": "besides money",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 148,
+    "question_content": "Seals can ……………. because they have a thick layer of blubber under their fur.",
+    "a": "keep them warm",
+    "b": "keep themselves warm",
+    "c": "they keep warm",
+    "d": "keep their warm",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 149,
+    "question_content": "Both liquids and gases flow freely from a container because they have ……………..",
+    "a": "not definite shape",
+    "b": "none definite shape",
+    "c": "nothing definite shape",
+    "d": "no definite shape",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 150,
+    "question_content": "One of Shaw's ……………., “Pygmalion”, was the story that formed the basis for the musical play “my fair lady\".",
+    "a": "greatest work",
+    "b": "greatest works",
+    "c": "the greatest work",
+    "d": "the greatest works",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 151,
+    "question_content": "Although the scientific community had hoped that the field of transplantation ……………., the shortage of organ donors has curtailed research.",
+    "a": "progress",
+    "b": "had progressed",
+    "c": "would progress",
+    "d": "progressing",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 152,
+    "question_content": "The seed heads of teasel plants raise the nap on coarse tweed cloth ……………. than do the machine tools invented to replace them.",
+    "a": "more efficiently",
+    "b": "efficiently more",
+    "c": "efficient",
+    "d": "most efficient",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 153,
+    "question_content": "We are all amenable ……………… discipline.",
+    "a": "with",
+    "b": "at",
+    "c": "to",
+    "d": "for",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 154,
+    "question_content": "……………. unknown quantities is the task of algebra.",
+    "a": "To found",
+    "b": "Find",
+    "c": "The find",
+    "d": "Finding",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 155,
+    "question_content": "I read two books but neither book …………….. very interesting.",
+    "a": "has been",
+    "b": "had been",
+    "c": "was",
+    "d": "were",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 156,
+    "question_content": "The yearly path of the sun around the heavens ……………..",
+    "a": "is known as the ecliptic",
+    "b": "known as the ecliptic",
+    "c": "it is known to be ecliptic",
+    "d": "knowing as the ecliptic",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 157,
+    "question_content": "This table is already ……………..",
+    "a": "occupy",
+    "b": "occupied",
+    "c": "occupation",
+    "d": "occupational",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 158,
+    "question_content": "A dolphin ……………. a porpoise in that it has a longer nose.",
+    "a": "different",
+    "b": "differs",
+    "c": "different than",
+    "d": "differs from",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 159,
+    "question_content": "The …………….. I’m late is that I missed the bus.",
+    "a": "reason",
+    "b": "reasoned",
+    "c": "reasonable",
+    "d": "reasonably",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 160,
+    "question_content": "…………… like “Macdonalds” and “Kentucky fried chicken” have used franchising to extend their sales internationally.",
+    "a": "Chain's restaurants",
+    "b": "Chains restaurants",
+    "c": "Chain restaurant",
+    "d": "Chain restaurants",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 161,
+    "question_content": "A baby is under parental ……………..",
+    "a": "guidance",
+    "b": "guide",
+    "c": "guide",
+    "d": "guideless",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 162,
+    "question_content": "Uranus is just ……………. to be seen on a clear night with the naked eye.",
+    "a": "bright enough",
+    "b": "enough brightly",
+    "c": "as enough bright",
+    "d": "bright as enough",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 163,
+    "question_content": "Before Alexander Fleming discovered penicillin, many people died ……………..",
+    "a": "infected with simple bacteria",
+    "b": "from simple bacterial infections",
+    "c": "infections were simple bacteria",
+    "d": "infecting of simple bacteria",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 164,
+    "question_content": "That most natural time units are not simple multiples of each other ……………. in constructing a calendar.",
+    "a": "it is a primary problem",
+    "b": "is a primary problem",
+    "c": "a primary problem is",
+    "d": "a primary problem",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 165,
+    "question_content": "……………. the plow is being displaced by new techniques that protect the land and promise more abundant crops.",
+    "a": "As a whole",
+    "b": "Wholly",
+    "c": "On a whole",
+    "d": "The whole",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 166,
+    "question_content": "In excess of 80 percent of the UN's budget is used ……………. the economic development of member nations.",
+    "a": "support",
+    "b": "supporting",
+    "c": "the support",
+    "d": "to support",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 167,
+    "question_content": "The bacteria in milk is destroyed when ……………. to at least 62°C.",
+    "a": "it be heated",
+    "b": "it heated",
+    "c": "it is heated",
+    "d": "it will be heated",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 168,
+    "question_content": "In order for people who spoke different languages to engage in trade ……………., they often developed a simplified language called “pidgin”.",
+    "a": "with each the other",
+    "b": "with each to the other",
+    "c": "with each another",
+    "d": "with each other",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 169,
+    "question_content": "The two main ……………. are permanent magnets and electromagnets.",
+    "a": "kinds of magnets",
+    "b": "kind of magnets",
+    "c": "kind magnets",
+    "d": "kinds magnets",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 170,
+    "question_content": "You ought to book in advance. You can’t rely …………….. a hotel room.",
+    "a": "on finding",
+    "b": "in finding",
+    "c": "of finding",
+    "d": "about finding",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 171,
+    "question_content": "According to a recent survey, ……………. doctors do not have a personal physician.",
+    "a": "a large amount of",
+    "b": "large amount of",
+    "c": "a large number of",
+    "d": "large number of",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 172,
+    "question_content": "There are many beautifully preserved historic buildings …………….",
+    "a": "in Beacon street in Boston",
+    "b": "in Beacon street at Boston",
+    "c": "on Beacon street in Boston",
+    "d": "at Beacon street on Boston",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 173,
+    "question_content": "The prime rate is the rate of interest that a bank will charge when it ………… money to its best clients.",
+    "a": "lent",
+    "b": "borrows",
+    "c": "borrowed",
+    "d": "lends",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 174,
+    "question_content": "The area where a microchip is manufactured must be the …………… environment possible.",
+    "a": "most cleanest",
+    "b": "cleanest",
+    "c": "more cleanest",
+    "d": "cleaner",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 175,
+    "question_content": "Mathematics is ……………… and serves so many of the sciences that it is a prerequisite for studying every scientific discipline.",
+    "a": "such important field",
+    "b": "such an important field",
+    "c": "such a important field",
+    "d": "so an important field",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 176,
+    "question_content": "Studies of job satisfaction are unreliable because there ……………. so many variables and because the admission of dissatisfaction may be viewed as a personal failure.",
+    "a": "was",
+    "b": "were",
+    "c": "is",
+    "d": "are",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 177,
+    "question_content": "I knew I could rely ……………… them to get the job done.",
+    "a": "in",
+    "b": "with",
+    "c": "of",
+    "d": "on",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 178,
+    "question_content": "Champlain founded a base at port royal in 1605, and …………. a fort at Quebec three years later.",
+    "a": "builds",
+    "b": "built",
+    "c": "to built",
+    "d": "building",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 179,
+    "question_content": "Natural gas often occurs together …………….. petroleum in the minute pores of rocks such as sandstone and limestone.",
+    "a": "with",
+    "b": "in",
+    "c": "by",
+    "d": "along",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 180,
+    "question_content": "There is no limit to the diversity to be ……………. in the cultures of people throughout the world.",
+    "a": "finding",
+    "b": "found",
+    "c": "find",
+    "d": "to find",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 181,
+    "question_content": "We were very proud of his ……………..",
+    "a": "fearful",
+    "b": "fearfulness",
+    "c": "fearless",
+    "d": "fearlessness",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 182,
+    "question_content": "The Sloths spend most of …………… time hanging upside down from trees and feeding on leaves and fruit.",
+    "a": "its",
+    "b": "his",
+    "c": "her",
+    "d": "their",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 183,
+    "question_content": "The native people in the Americas were referred to as Indians because according to the ………… at the time, Christopher Columbus had reached the East Indies.",
+    "a": "believe",
+    "b": "belief",
+    "c": "believed",
+    "d": "believer",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 184,
+    "question_content": "…………….. missile was used in the war between American and Irak.",
+    "a": "Guidance",
+    "b": "Guide",
+    "c": "Guided",
+    "d": "Guideless",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 185,
+    "question_content": "A barometer is a device with a sealed metal chamber designed ……………… the changes in the pressure of air in the atmosphere.",
+    "a": "to reading",
+    "b": "read",
+    "c": "reading",
+    "d": "to read",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 186,
+    "question_content": "Cotton fiber, like other vegetable fibers, ……………. composed mostly of cellulose.",
+    "a": "are",
+    "b": "is",
+    "c": "has",
+    "d": "have",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 187,
+    "question_content": "Almost all life depends ………. chemical reactions with oxygen to produce energy.",
+    "a": "with",
+    "b": "to",
+    "c": "on",
+    "d": "for",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 188,
+    "question_content": "It may be argued that modern presidents have far ……………. responsibilities than their predecessors did.",
+    "a": "great",
+    "b": "more great",
+    "c": "greater",
+    "d": "most great",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 189,
+    "question_content": "She put a (well-) …………….. case for increasing the fees.",
+    "a": "reason",
+    "b": "reasoned",
+    "c": "reasonable",
+    "d": "reasonably",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 190,
+    "question_content": "Many grasshoppers can produce sounds by ……………. their hind legs against their wings.",
+    "a": "rub",
+    "b": "to rub",
+    "c": "rubbed",
+    "d": "rubbing",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 191,
+    "question_content": "Henry Wadsworth Longfellow was not only a poet and an author but ……….. the chairman of the modern language department at Harvard university for more than eighteen years.",
+    "a": "also",
+    "b": "as well",
+    "c": "so well",
+    "d": "so",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 192,
+    "question_content": "It’s an …………….. advice service.",
+    "a": "occupied (v)",
+    "b": "occupied (adj)",
+    "c": "occupation",
+    "d": "occupational",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 193,
+    "question_content": "Some important characteristics of the baroque style were a renewed interest in ornamentation and a powerful ………………. of both light and shade.",
+    "a": "use",
+    "b": "useful",
+    "c": "useless",
+    "d": "to use",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 194,
+    "question_content": "I’ve succeeded ……………… hold of the telephone number.",
+    "a": "in getting",
+    "b": "on getting",
+    "c": "upon getting",
+    "d": "about getting",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 195,
+    "question_content": "The girl took a long (hike) on the first morning at camp.",
+    "a": "horseback ride",
+    "b": "bike ride",
+    "c": "walk",
+    "d": "go",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 196,
+    "question_content": "The elevator (broke down), and we had to walk up to the tenth floor.",
+    "a": "fell",
+    "b": "stopped functioning",
+    "c": "exploded",
+    "d": "spread",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 197,
+    "question_content": "Two little boys (approached) me and said, “Give me some money”.",
+    "a": "came down to",
+    "b": "came up to",
+    "c": "came around to",
+    "d": "came on to",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 198,
+    "question_content": "The cabinet consists of secretaries of departments, who report to the president, give him advice, and ……………. him make decisions.",
+    "a": "helping",
+    "b": "to help",
+    "c": "help",
+    "d": "with helping",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 199,
+    "question_content": "The jury isn’t satisfied ……………… his answer.",
+    "a": "to",
+    "b": "with",
+    "c": "about",
+    "d": "of",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 200,
+    "question_content": "Each of the intelsat satellites ………….. in a fixed position from which they relay radio signals to more than seventy earth stations.",
+    "a": "remain",
+    "b": "remains",
+    "c": "remained",
+    "d": "remaining",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 201,
+    "question_content": "The examiner must have pleased ………….. my performance.",
+    "a": "for",
+    "b": "with",
+    "c": "about",
+    "d": "in",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 202,
+    "question_content": "“Grateful for” means:",
+    "a": "fed up with",
+    "b": "proud of",
+    "c": "fond of",
+    "d": "thankful for",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 203,
+    "question_content": "They informed me about it. That’s the …………….. I received.",
+    "a": "inform",
+    "b": "informs",
+    "c": "informations",
+    "d": "information",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 204,
+    "question_content": "She said she ……………….. this race.",
+    "a": "wants to win",
+    "b": "want to win",
+    "c": "wanted to win",
+    "d": "wanting to win",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 205,
+    "question_content": "The thief was …………….. to six months’ imprisonment.",
+    "a": "given",
+    "b": "allowed",
+    "c": "sent",
+    "d": "sentenced",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 206,
+    "question_content": "Some people think that the camel ……………….. water in its hump.",
+    "a": "store",
+    "b": "stores",
+    "c": "stored",
+    "d": "had stored",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 207,
+    "question_content": "Instead of ……………… about the good news, Tom seemed to be indifferent.",
+    "a": "exciting",
+    "b": "being excited",
+    "c": "to excite",
+    "d": "to be excited",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 208,
+    "question_content": "Women …………….. to live longer than men.",
+    "a": "tend",
+    "b": "tendency",
+    "c": "tendentious",
+    "d": "tendentiously",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 209,
+    "question_content": "I finally finished ……………… at 7.00 p.m. and served dinner.",
+    "a": "cooking",
+    "b": "being cooked",
+    "c": "to cook",
+    "d": "to be cooked",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 210,
+    "question_content": "Would you mind not ……………… the radio until I have finished with this phone call?",
+    "a": "turning on",
+    "b": "being turned on",
+    "c": "to turn on",
+    "d": "to be turned on",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 211,
+    "question_content": "Ann hoped ……………… to join the private club. She could make important business contracts there.",
+    "a": "inviting",
+    "b": "being invited",
+    "c": "to invite",
+    "d": "to be invited",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 212,
+    "question_content": "The fact that many students tend ……………… interest in literature.",
+    "a": "lose",
+    "b": "losing",
+    "c": "to lose",
+    "d": "being lost",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 213,
+    "question_content": "The tourists complained …………….. any sleep.",
+    "a": "for not getting",
+    "b": "about not getting",
+    "c": "on not getting",
+    "d": "in not getting",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 214,
+    "question_content": "She’s perfectly …………….. in her demands.",
+    "a": "reason",
+    "b": "reasoned",
+    "c": "reasonable",
+    "d": "reasonably",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 215,
+    "question_content": "It is a thing worth ………………",
+    "a": "being done",
+    "b": "to be done",
+    "c": "doing",
+    "d": "do",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 216,
+    "question_content": "There are ways ……………… that.",
+    "a": "doing",
+    "b": "to be done",
+    "c": "done",
+    "d": "to do",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 217,
+    "question_content": "Prices continue to show an upward ……………..",
+    "a": "tend",
+    "b": "tendency",
+    "c": "tendentious",
+    "d": "tendentiously",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 218,
+    "question_content": "The quality of this photograph is not noticeably different ……………… that one.",
+    "a": "for",
+    "b": "with",
+    "c": "from",
+    "d": "of",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 219,
+    "question_content": "You should get into the habit of ……………… at least one newspaper daily.",
+    "a": "to read",
+    "b": "reading",
+    "c": "being read",
+    "d": "read",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 220,
+    "question_content": "It is very important that you learn how ……………… this tool.",
+    "a": "to use",
+    "b": "using",
+    "c": "use",
+    "d": "used",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 221,
+    "question_content": "Historians will never agree completely the effects of ……………… the world’s first atomic bomb ……………… the World War II.",
+    "a": "drop / to end",
+    "b": "dropping / to be ended",
+    "c": "dropping / to end",
+    "d": "drop / end",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 222,
+    "question_content": "She was unable to speak from ……………..",
+    "a": "fear",
+    "b": "fearsome",
+    "c": "fearful",
+    "d": "fearless",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 223,
+    "question_content": "We felt ashamed ……………… his action.",
+    "a": "to",
+    "b": "of",
+    "c": "on",
+    "d": "for",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 224,
+    "question_content": "A good student must know ………………",
+    "a": "to study hard",
+    "b": "to be a good student",
+    "c": "how to study effectively",
+    "d": "the way of effectively in study",
+    "answer": ""
+  },
+  {
+    "level": "c",
+    "stt": 225,
+    "question_content": "Radioactivity causes cancer and may ……………… future generations.",
+    "a": "create",
+    "b": "affect",
+    "c": "develop",
+    "d": "even help",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 226,
+    "question_content": "The pilot agreed to land the plane only …………… the hijackers threatened in shoot some of the passengers.",
+    "a": "which",
+    "b": "when",
+    "c": "that",
+    "d": "where",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 227,
+    "question_content": "We was delighted ……………… you’ve won the first prize in the National mathematics competition.",
+    "a": "that",
+    "b": "when",
+    "c": "why",
+    "d": "where",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 228,
+    "question_content": "You were responsible ……………… the error.",
+    "a": "to",
+    "b": "for",
+    "c": "on",
+    "d": "in",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 229,
+    "question_content": "He was ……………… to prevent it.",
+    "a": "power",
+    "b": "powerly",
+    "c": "powerless",
+    "d": "unpower",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 230,
+    "question_content": "Either my answer or yours …………….. wrong.",
+    "a": "is",
+    "b": "are",
+    "c": "has",
+    "d": "have",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 231,
+    "question_content": "He returned money to the man who ……………… it.",
+    "a": "loose",
+    "b": "have lost",
+    "c": "lost",
+    "d": "had lost",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 232,
+    "question_content": "The film didn’t ……………… to our expectations.",
+    "a": "equal",
+    "b": "give",
+    "c": "equally",
+    "d": "gave",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 233,
+    "question_content": "There are three categories ……………… answers you can choose one.",
+    "a": "of",
+    "b": "about",
+    "c": "with",
+    "d": "in",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 234,
+    "question_content": "Children with …………….. faces waiting for the pantomime to start.",
+    "a": "expectant",
+    "b": "expected",
+    "c": "expect",
+    "d": "expectation",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 235,
+    "question_content": "Those fellows seem dull and I want to get ……………… of them quickly.",
+    "a": "pant",
+    "b": "rid",
+    "c": "chance",
+    "d": "difficult",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 236,
+    "question_content": "The suggestions above are just some of the ways to increase your ……………….. awareness.",
+    "a": "culture",
+    "b": "culturally",
+    "c": "cultural",
+    "d": "cultured",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 237,
+    "question_content": "My roommates ……………… dinner by the time I got home.",
+    "a": "finished",
+    "b": "finish",
+    "c": "had finished",
+    "d": "have finished",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 238,
+    "question_content": "We express our thoughts by means ……………… word.",
+    "a": "in",
+    "b": "to",
+    "c": "on",
+    "d": "of",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 239,
+    "question_content": "The witness’s account was not ……………… with the facts.",
+    "a": "match",
+    "b": "reliable",
+    "c": "consistent",
+    "d": "confirmed",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 240,
+    "question_content": "It was not until she had arrived home ……………… remembered her appointment with the doctor.",
+    "a": "when she",
+    "b": "that she",
+    "c": "and she",
+    "d": "she",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 241,
+    "question_content": "Is this car capable …………….. us all way to our hometown?.",
+    "a": "in getting",
+    "b": "about getting",
+    "c": "of getting",
+    "d": "for getting",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 242,
+    "question_content": "The people at the party were worried about Jane because no one was aware ……………… she had gone.",
+    "a": "of where",
+    "b": "of the place where",
+    "c": "where that",
+    "d": "the place",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 243,
+    "question_content": "Minh did not do well in the class because ………………",
+    "a": "he studied bad.",
+    "b": "he was not good studywise.",
+    "c": "he was a badly student.",
+    "d": "he failed to study properly.",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 244,
+    "question_content": "He made a speech at a wedding reception. He spoke during the ………………",
+    "a": "wedding",
+    "b": "marriage",
+    "c": "ceremony",
+    "d": "party",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 245,
+    "question_content": "Let’s ask our teacher how to solve this problem ……………… we can’t agree on the answer.",
+    "a": "because of",
+    "b": "since",
+    "c": "consequently",
+    "d": "as long as",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 246,
+    "question_content": "Mr. Phuong will substitute ……………… the history teacher who is out of town.",
+    "a": "from",
+    "b": "at",
+    "c": "for",
+    "d": "with",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 247,
+    "question_content": "……………… you select reverse gear, the car goes backwards.",
+    "a": "In spite of",
+    "b": "Unless",
+    "c": "If",
+    "d": "For",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 248,
+    "question_content": "……………… I get angry and upset, I try to take ten deep breaths.",
+    "a": "Until",
+    "b": "Whenever",
+    "c": "Therefore",
+    "d": "For",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 249,
+    "question_content": "A …………….. railway accident happened 3 days ago.",
+    "a": "fearful",
+    "b": "fearfulness",
+    "c": "fearless",
+    "d": "fearlessness",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 250,
+    "question_content": "A small fish needs camouflage to hide itself ……………… its enemies cannot find it.",
+    "a": "so that",
+    "b": "so",
+    "c": "therefore",
+    "d": "due to",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 251,
+    "question_content": "I wouldn’t give a ……………… to a young child for his birthday.",
+    "a": "flowers",
+    "b": "fruit",
+    "c": "basket of fruit",
+    "d": "money",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 252,
+    "question_content": "Did they …………….. to Polihale Beach when they were in Hawaii?",
+    "a": "go",
+    "b": "went",
+    "c": "gone",
+    "d": "to go",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 253,
+    "question_content": "Do you think ………….. is a good gift?",
+    "a": "gloves",
+    "b": "money",
+    "c": "cookies",
+    "d": "chocolates",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 254,
+    "question_content": "My grandparents gave me some beautiful ………………… when I finished high school.",
+    "a": "jewelry",
+    "b": "necklace",
+    "c": "piece of jewelry",
+    "d": "ring",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 255,
+    "question_content": "A comedy is a movie …………….. you laugh.",
+    "a": "who makes",
+    "b": "who make",
+    "c": "that makes",
+    "d": "in that makes",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 256,
+    "question_content": "If you cross your eyes, they …………….. that way.",
+    "a": "are staying",
+    "b": "stayed",
+    "c": "wouldn’t stay",
+    "d": "won’t stay",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 257,
+    "question_content": "Andrew is very good …………….. jokes.",
+    "a": "for telling",
+    "b": "in telling",
+    "c": "at telling",
+    "d": "about telling",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 258,
+    "question_content": "We plan to investigate the possibility ……………… spending a week at the seashore.",
+    "a": "in",
+    "b": "of",
+    "c": "on",
+    "d": "for",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 259,
+    "question_content": "What will happen if you …………….. to a lot of loud music?",
+    "a": "have listened",
+    "b": "are listening",
+    "c": "listen",
+    "d": "listened",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 260,
+    "question_content": "Huge areas have been …………….. because of the nuclear accident.",
+    "a": "evacuated",
+    "b": "transmitted",
+    "c": "restrained",
+    "d": "disturbed",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 261,
+    "question_content": "He was a very unpopular man in the village. Nobody …………….. him.",
+    "a": "quarrelled",
+    "b": "hated",
+    "c": "liked",
+    "d": "objected",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 262,
+    "question_content": "The country was in total …………….. as all of the political factions attempted to gain control after the revolution.",
+    "a": "confusion",
+    "b": "confustion",
+    "c": "confusment",
+    "d": "confusian",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 263,
+    "question_content": "In order to make a good …………….. at a job interview, you should prepare well for the interview.",
+    "a": "impressment",
+    "b": "impressian",
+    "c": "impresstion",
+    "d": "impression",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 264,
+    "question_content": "What someone says to you can create amusing problems.",
+    "a": "inunderstanding",
+    "b": "misunderstanding",
+    "c": "ununderstanding",
+    "d": "ilunderstanding",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 265,
+    "question_content": "If television programs were not violent, they would not …………….. in increased violence in the viewers.",
+    "a": "contribute",
+    "b": "result",
+    "c": "give",
+    "d": "conclude",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 266,
+    "question_content": "A few of the passengers were trying to get some sleep, but …………….. of them were reading.",
+    "a": "almost",
+    "b": "all most",
+    "c": "most",
+    "d": "mostly",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 267,
+    "question_content": "A lot of the passengers were traveling home to …………….. Christmas with their families.",
+    "a": "last",
+    "b": "hold",
+    "c": "keep",
+    "d": "spend",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 268,
+    "question_content": "Designing …………….. for actors to wear requires a lot of creativity.",
+    "a": "scripts",
+    "b": "sets",
+    "c": "costumes",
+    "d": "kinds",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 269,
+    "question_content": "The three men were found guilty …………….. fraud.",
+    "a": "with",
+    "b": "for",
+    "c": "of",
+    "d": "by",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 270,
+    "question_content": "Every house in the street …………….. the same.",
+    "a": "is",
+    "b": "are",
+    "c": "has",
+    "d": "have",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 271,
+    "question_content": "What is she so nervous ………………?",
+    "a": "about",
+    "b": "for",
+    "c": "to",
+    "d": "with",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 272,
+    "question_content": "Such …………….. statements are likely to provoke strong opposition.",
+    "a": "tend",
+    "b": "tendency",
+    "c": "tendentious",
+    "d": "tendentiously",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 273,
+    "question_content": "The man was found guilty …………….. from his employer.",
+    "a": "of stealing",
+    "b": "for stealing",
+    "c": "in stealing",
+    "d": "with stealing",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 274,
+    "question_content": "She went on her work with an air of ……………..",
+    "a": "determinant",
+    "b": "determination",
+    "c": "determine",
+    "d": "determined",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 275,
+    "question_content": "He …………….. that if we started at dawn, we would be there by noon.",
+    "a": "reason",
+    "b": "reasoned",
+    "c": "reasonable",
+    "d": "reasonably",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 276,
+    "question_content": "The patient is getting on ……………..",
+    "a": "satisfied",
+    "b": "satisfaction",
+    "c": "satisfactory",
+    "d": "satisfactorily",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 277,
+    "question_content": "My brother and my sister …………….. engineers.",
+    "a": "is",
+    "b": "are",
+    "c": "has",
+    "d": "have",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 278,
+    "question_content": "He did not look at straight to his father’s eyes. He answered ……………..",
+    "a": "fearful",
+    "b": "fearfully",
+    "c": "fearless",
+    "d": "fearlessly",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 279,
+    "question_content": "The earth, ………………. is the fifth largest planet in the solar system, is the third planet from the sun.",
+    "a": "who",
+    "b": "whom",
+    "c": "which",
+    "d": "that",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 280,
+    "question_content": "They took part in school’s activities ……………..",
+    "a": "keen",
+    "b": "keenly",
+    "c": "keenness",
+    "d": "keener",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 281,
+    "question_content": "She went to meet him with an air of ……………..",
+    "a": "expectant",
+    "b": "expectancy",
+    "c": "expect",
+    "d": "expectation",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 282,
+    "question_content": "Alexander Graham Bell …………….. the telephone by the time I was born.",
+    "a": "had already invented",
+    "b": "has already finished",
+    "c": "already finished",
+    "d": "already finish",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 283,
+    "question_content": "The army …………….. the enemy’s capital.",
+    "a": "occupied (v)",
+    "b": "occupied (adj)",
+    "c": "occupation",
+    "d": "occupational",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 284,
+    "question_content": "People objected ……………. to wait so long.",
+    "a": "with having",
+    "b": "to having",
+    "c": "for having",
+    "d": "about having",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 285,
+    "question_content": "- Is April twenty-first the day ……………..?\n- No, the twenty-second.",
+    "a": "you’ll arrive then",
+    "b": "when you arrive",
+    "c": "on that you’ll arrive",
+    "d": "when you’ll arrive on",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 286,
+    "question_content": "The severe drought …………….. occurred last summer ruined the corn crop.",
+    "a": "that is",
+    "b": "which it",
+    "c": "it",
+    "d": "that",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 287,
+    "question_content": "Florida, …………….. the Sunshine State, attracts many tourists every year.",
+    "a": "is",
+    "b": "known as",
+    "c": "is known as",
+    "d": "that is known as",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 288,
+    "question_content": "The new shopping mall is gigantic. It’s advertised as a place …………….. you can find just about anything you might want to buy.",
+    "a": "where",
+    "b": "which",
+    "c": "in where",
+    "d": "in that",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 289,
+    "question_content": "Lola’s marriage has been arranged by her family. She is marrying to a man ……………..",
+    "a": "that she hardly knows him",
+    "b": "whom she hardly knows",
+    "c": "whose she hardly knows",
+    "d": "she hardly knows him",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 290,
+    "question_content": "People who exercise frequently have greater physical endurance than those ……………..",
+    "a": "who doesn’t",
+    "b": "that doesn’t",
+    "c": "which don’t",
+    "d": "who don’t",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 291,
+    "question_content": "Is this the address to …………….. you want the package sent?",
+    "a": "where",
+    "b": "that",
+    "c": "which",
+    "d": "whom",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 292,
+    "question_content": "That book is by a famous anthropologist. It’s about the people in Samoa …………….. for two years.",
+    "a": "that she lived",
+    "b": "that she lived among them",
+    "c": "among whom she lived",
+    "d": "where she lived among them",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 293,
+    "question_content": "By the time Jason arrived to help, we …………….. moving everything.",
+    "a": "has already finished",
+    "b": "had already finished",
+    "c": "already finished",
+    "d": "already finish",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 294,
+    "question_content": "The apartment was hot when I got home, so I …………….. the air conditioner.",
+    "a": "had turned on",
+    "b": "turn on",
+    "c": "turned on",
+    "d": "would turn on",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 295,
+    "question_content": "We engaged a …………….. to show us the way across the mountains.",
+    "a": "guidance",
+    "b": "guide",
+    "c": "guided",
+    "d": "guideless",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 296,
+    "question_content": "The farmer’s barn caught fire during the night. By the time the fire fighters arrived, the building …………….. to the ground.",
+    "a": "burned",
+    "b": "had been burned",
+    "c": "was burned",
+    "d": "had burned",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 297,
+    "question_content": "The suit cost me more than a week’s salary. Until then, I …………….. so much on one outfit.",
+    "a": "never had spent",
+    "b": "never has spent",
+    "c": "had never spent",
+    "d": "has never spent",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 298,
+    "question_content": "Yesterday a hornet …………….. me under my arm. That really hurt! When I put on my shirt after working in the garden, I hadn’t seen that there was a hornet in it.",
+    "a": "had stung",
+    "b": "sting",
+    "c": "stung",
+    "d": "was stung",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 299,
+    "question_content": "Sophie is very keen …………….. to art college.",
+    "a": "in going",
+    "b": "at going",
+    "c": "about going",
+    "d": "on going",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 300,
+    "question_content": "If any of your questions are still …………….., you could do some more research in order to have answers.",
+    "a": "inanswered",
+    "b": "unanswered",
+    "c": "imanswered",
+    "d": "iranswered",
+    "answer": "b"
   }
 ]
