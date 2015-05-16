@@ -1,0 +1,442 @@
+[
+  {
+    "level": "c",
+    "stt": 1,
+    "question_content": "........................ every child in the school passed the swimming test",
+    "a": "Near to",
+    "b": "Near of",
+    "c": "Next to",
+    "d": "Nearly",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 2,
+    "question_content": "She can look back on her career with great …………",
+    "a": "satisfied",
+    "b": "satisfaction",
+    "c": "satisfactory",
+    "d": "satisfactorily",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 3,
+    "question_content": "The captain as well as the passengers ………… frightened.",
+    "a": "be",
+    "b": "been",
+    "c": "was",
+    "d": "were",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 4,
+    "question_content": "Ann has got two sisters. Both of them ………… married.",
+    "a": "has",
+    "b": "have",
+    "c": "is",
+    "d": "are",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 5,
+    "question_content": "Each learner of English ………… a good dictionary.",
+    "a": "needs",
+    "b": "need",
+    "c": "is",
+    "d": "are",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 6,
+    "question_content": "Money, nor fame, nor wealth ………… brought happiness to everybody",
+    "a": "has",
+    "b": "have",
+    "c": "is",
+    "d": "are",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 7,
+    "question_content": "They ………………… at this school before they became interpreters",
+    "a": "have taught",
+    "b": "had taught",
+    "c": "taught",
+    "d": "were taught",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 8,
+    "question_content": "The salary of a bus driver is much higher …………….",
+    "a": "in comparison with the salary of a teacher",
+    "b": "than a teacher",
+    "c": "than that of a teacher",
+    "d": "to compare as a teacher",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 9,
+    "question_content": "Professional people expect you to call them when it is necessary\n……………… an appointment",
+    "a": "to cancel",
+    "b": "cancel",
+    "c": "canceling",
+    "d": "canceled",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 10,
+    "question_content": "A computer is usually chosen because of its simplicity of operation and ease\nof maintenance ............... its capacity to store information",
+    "a": "the same as",
+    "b": "the same",
+    "c": "as well as",
+    "d": "as well",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 11,
+    "question_content": "In a new culture, many embarrassing situations occur ................ a misunderstanding.",
+    "a": "for",
+    "b": "of",
+    "c": "because of",
+    "d": "because",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 12,
+    "question_content": "Neptune is an extremely cold planet, and ................",
+    "a": "so does Uranus",
+    "b": "so has Uranus",
+    "c": "so is Uranus",
+    "d": "Uranus so",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 13,
+    "question_content": "............... that gold was discovered at Sutter's Mill and that the California Gold Rush began",
+    "a": "Because in 1848",
+    "b": "That in 1848",
+    "c": "In 1848 that it was",
+    "d": "It was in 1848",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 14,
+    "question_content": "The job has no …………",
+    "a": "prospectively",
+    "b": "prospects",
+    "c": "prospector",
+    "d": "prospective",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 15,
+    "question_content": "Frost occurs in valleys and on low grounds ...............on adjacent hills.",
+    "a": "more frequently as",
+    "b": "as frequently than",
+    "c": "more frequently than",
+    "d": "frequently than",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 16,
+    "question_content": "Mount Rushmore can be ....................... from more than 100 kilometers away.",
+    "a": "see",
+    "b": "saw",
+    "c": "been seen",
+    "d": "seen",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 17,
+    "question_content": "I’d like you ........................ my family this weekend",
+    "a": "meet",
+    "b": "to meet",
+    "c": "meeting",
+    "d": "to meeting",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 18,
+    "question_content": "Cold objects emit ............... hot objects.",
+    "a": "fewer than infrared rays as",
+    "b": "fewer infrared rays than",
+    "c": "fewer infrared rays as",
+    "d": "as fewer infrared rays",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 19,
+    "question_content": "Mr. Green, along with his friends, ………… arriving here tonight",
+    "a": "is",
+    "b": "are",
+    "c": "was",
+    "d": "were",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 20,
+    "question_content": "The statement will be spoken just one time; therefore, you must listen very ………….. in order to understand what the speaker has said.",
+    "a": "carefully",
+    "b": "careful",
+    "c": "care",
+    "d": "careless",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 21,
+    "question_content": "Gunpowder, in some ways the most effective of all the explosive materials, ………… a mixture of potassium nitrate, charcoal, and sulfur.",
+    "a": "were",
+    "b": "had been",
+    "c": "had",
+    "d": "was",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 22,
+    "question_content": "In the relatively short history of industrial ………… in the United States,\nNew York city has played a vital role.",
+    "a": "developed",
+    "b": "development",
+    "c": "developing",
+    "d": "develop",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 23,
+    "question_content": "As the demand increases, manufacturers who previously produced only a large, luxury car ……….. compelled to make a smaller model in order to compete in the market",
+    "a": "is",
+    "b": "are",
+    "c": "will",
+    "d": "should",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 24,
+    "question_content": "She has ………… the conditions for entry into the college.",
+    "a": "satisfied",
+    "b": "satisfaction",
+    "c": "satisfactory",
+    "d": "satisfactorily",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 25,
+    "question_content": "For the first time in the history of the country, the person …………… was recommended by the president to replace a retiring justice on the supreme court is a woman.",
+    "a": "which",
+    "b": "whose",
+    "c": "who",
+    "d": "whom",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 26,
+    "question_content": "Signor Risponso's fame rested on the breadth of his range, which was ............... any other tenor, living or dead.",
+    "a": "greater than that of",
+    "b": "as large as",
+    "c": "more greater",
+    "d": "broader than the one of",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 27,
+    "question_content": "New words are constantly being invented ……………. new objects and concepts.",
+    "a": "to describe",
+    "b": "a description of",
+    "c": "they describe",
+    "d": "describe",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 28,
+    "question_content": "You can’t ………… to learn a foreign language in a week.",
+    "a": "expectant",
+    "b": "expected",
+    "c": "expect",
+    "d": "expectation",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 29,
+    "question_content": "………… rain or snow there are always more than fifty thousand fans at the football games.",
+    "a": "Despite",
+    "b": "In spite with",
+    "c": "Despite of",
+    "d": "Despite with",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 30,
+    "question_content": "The prices of homes are ……………. high in urban areas that most young people cannot afford to buy them.",
+    "a": "as",
+    "b": "so",
+    "c": "such",
+    "d": "so as",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 31,
+    "question_content": "To see the statue of liberty and ……………. pictures from the top of the empire state building are two reasons for visiting New York city.",
+    "a": "taking",
+    "b": "take",
+    "c": "taken",
+    "d": "to take",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 32,
+    "question_content": "I can’t see the ………… of sitting on the beach all day.",
+    "a": "attract",
+    "b": "attractive",
+    "c": "attractiveness",
+    "d": "attractively",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 33,
+    "question_content": "Factoring is the process of finding two or more expressions whose product is equal …………… the given expression.",
+    "a": "to",
+    "b": "as",
+    "c": "with",
+    "d": "by",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 34,
+    "question_content": "Bricks baked in a kiln are much harder ………… that are dried in the sun.",
+    "a": "those",
+    "b": "than do those",
+    "c": "than those",
+    "d": "ones",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 35,
+    "question_content": "Since infection can cause …………… fever ……………. pain, it is a good idea to check a patient's temperature.",
+    "a": "both / as well as",
+    "b": "both / as good as",
+    "c": "both / with",
+    "d": "both / and",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 36,
+    "question_content": "Schizophrenia, a behavioral disorder typified by a fundamental break with reality, ………… by genetic predisposition, stress, drugs, or infections.",
+    "a": "may be triggered",
+    "b": "may triggered",
+    "c": "may trigger",
+    "d": "may be trigger",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 37,
+    "question_content": "They asked us, Henry and ……………, whether we thought that the statistics had been presented fairly and accurately.",
+    "a": "I",
+    "b": "me",
+    "c": "mine",
+    "d": "my",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 38,
+    "question_content": "They thought that he was guilty ……………… racial discrimination.",
+    "a": "of",
+    "b": "with",
+    "c": "for",
+    "d": "about",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 39,
+    "question_content": "In purchasing a winter coat, it is very important ………… it on with heavy clothing underneath",
+    "a": "for trying",
+    "b": "to try",
+    "c": "of trying",
+    "d": "try",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 40,
+    "question_content": "What happened in New York …………… a reaction from city workers, including firemen and policemen who had been laid off from their jobs.",
+    "a": "was",
+    "b": "were",
+    "c": "is",
+    "d": "are",
+    "answer": "a"
+  },
+  {
+    "level": "c",
+    "stt": 41,
+    "question_content": "The result of the experiment was …………",
+    "a": "satisfied",
+    "b": "satisfaction",
+    "c": "satisfactory",
+    "d": "satisfactorily",
+    "answer": "c"
+  },
+  {
+    "level": "c",
+    "stt": 42,
+    "question_content": "number of ……………. submitted their manuscripts under pseudonyms to conceal the fact that they were women",
+    "a": "novel",
+    "b": "novelist",
+    "c": "novels",
+    "d": "novelists",
+    "answer": "d"
+  },
+  {
+    "level": "c",
+    "stt": 43,
+    "question_content": "Some executives require that the secretary ………… responsible for writing all reports as well as for balancing the books.",
+    "a": "is",
+    "b": "be",
+    "c": "was",
+    "d": "been",
+    "answer": "b"
+  },
+  {
+    "level": "c",
+    "stt": 44,
+    "question_content": "Although a doctor may be able to diagnose a problem ………………, he still may not be able to find a drug to which the patient will respond.",
+    "a": "perfect",
+    "b": "perfectible",
+    "c": "perfectly",
+    "d": "perfection",
+    "answer": "c"
+  }
+]

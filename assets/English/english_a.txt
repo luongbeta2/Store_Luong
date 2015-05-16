@@ -1,0 +1,782 @@
+[
+  {
+    "level": "a",
+    "stt": 1,
+    "question_content": "Is Susan ........... home?",
+    "a": "in",
+    "b": "at",
+    "c": "on",
+    "d": "under",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 2,
+    "question_content": "\"Do the children go to school every day?\"\n\".....................\"",
+    "a": "Yes, they go.",
+    "b": "Yes, they do.",
+    "c": "They go.",
+    "d": "No, they don't go.",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 3,
+    "question_content": "What ............ now?",
+    "a": "is the time",
+    "b": "does the time",
+    "c": "is time",
+    "d": "is it",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 4,
+    "question_content": "They always go to school ............. bicycle.",
+    "a": "with",
+    "b": "in",
+    "c": "on",
+    "d": "by",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 5,
+    "question_content": "What color ........... his new car?",
+    "a": "have",
+    "b": "is",
+    "c": "does",
+    "d": "are",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 6,
+    "question_content": "Are there many students in Room 12?\n- \"...................................................\"",
+    "a": "Yes there are.",
+    "b": "Yes, they are.",
+    "c": "Some are.",
+    "d": "No they aren't.",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 7,
+    "question_content": "You should do your ................. before going to class.",
+    "a": "home work",
+    "b": "homework",
+    "c": "homeworks",
+    "d": "housework",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 8,
+    "question_content": "Mr. Pike ............ us English.",
+    "a": "teach",
+    "b": "teaches",
+    "c": "teaching",
+    "d": "to teach",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 9,
+    "question_content": "Tom and ............. are going to the birthday party together.",
+    "a": "I",
+    "b": "me",
+    "c": "my",
+    "d": "mine",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 10,
+    "question_content": "Our English lessons are ............... long.",
+    "a": "many",
+    "b": "much",
+    "c": "a lot of",
+    "d": "very",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 11,
+    "question_content": "Bangkok is ............ capital of Thailand.",
+    "a": "a",
+    "b": "one",
+    "c": "the",
+    "d": "an",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 12,
+    "question_content": "Are you free ............ Saturday?",
+    "a": "on",
+    "b": "at",
+    "c": "in",
+    "d": "into",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 13,
+    "question_content": "There are .............. girls in our class.",
+    "a": "no",
+    "b": "not",
+    "c": "none",
+    "d": "none of",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 14,
+    "question_content": "Let ............ go for a walk.",
+    "a": "we",
+    "b": "us",
+    "c": "you",
+    "d": "our",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 15,
+    "question_content": "What is your name?\n- .......... name is Linda.",
+    "a": "Your",
+    "b": "His",
+    "c": "My",
+    "d": "Her",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 16,
+    "question_content": "What's ............. name?\n- His name is Henry.",
+    "a": "his",
+    "b": "her",
+    "c": "your",
+    "d": "my",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 17,
+    "question_content": "I'm a pupil.\n- I'm a ................, too.",
+    "a": "teacher",
+    "b": "pupil",
+    "c": "student",
+    "d": "doctor",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 18,
+    "question_content": "Is this your pencil? No, it isn't. It is .......... pencil.",
+    "a": "his",
+    "b": "my",
+    "c": "your",
+    "d": "hers",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 19,
+    "question_content": "Are these your coats?\nYes they are .............",
+    "a": "their coats",
+    "b": "ours",
+    "c": "our coats",
+    "d": "yours",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 20,
+    "question_content": "Are your free ............ Friday evening?",
+    "a": "in",
+    "b": "at",
+    "c": "on",
+    "d": "from",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 21,
+    "question_content": "There are six pencils ........... the box.",
+    "a": "in",
+    "b": "at",
+    "c": "on",
+    "d": "into",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 22,
+    "question_content": "Where is your mother?\nShe's .......... the kitchen.",
+    "a": "in",
+    "b": "on",
+    "c": "into",
+    "d": "at",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 23,
+    "question_content": "How many pictures are there ........... the wall?",
+    "a": "in",
+    "b": "on",
+    "c": "into",
+    "d": "at",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 24,
+    "question_content": "Are you .............. Vietnam? \n- Yes, I am.",
+    "a": "to",
+    "b": "on",
+    "c": "into",
+    "d": "from",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 25,
+    "question_content": "I'm cleaning the floor. Can your help ............?",
+    "a": "I",
+    "b": "me",
+    "c": "my",
+    "d": "mine",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 26,
+    "question_content": "What are you doing? - ............. are planting some trees.",
+    "a": "we",
+    "b": "us",
+    "c": "our",
+    "d": "ours",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 27,
+    "question_content": "Mary is doing her homework and ........... brother is helping her.",
+    "a": "she",
+    "b": "hers",
+    "c": "her",
+    "d": "she's",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 28,
+    "question_content": "Jane's books are on the floor. Please, put ........... on the table.",
+    "a": "they",
+    "b": "them",
+    "c": "their",
+    "d": "theirs",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 29,
+    "question_content": "Please put this pencil in the box.\n- I'm putting ......... in the box.",
+    "a": "it",
+    "b": "its",
+    "c": "them",
+    "d": "they",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 30,
+    "question_content": "When's ............ birthday?",
+    "a": "his",
+    "b": "he",
+    "c": "him",
+    "d": "he's",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 31,
+    "question_content": "Whose bicycle is it? It's .............",
+    "a": "he",
+    "b": "her",
+    "c": "hers",
+    "d": "she",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 32,
+    "question_content": "How old is .............?",
+    "a": "she",
+    "b": "her",
+    "c": "hers",
+    "d": "his",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 33,
+    "question_content": "There are .......... eggs on the table.",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 34,
+    "question_content": "Is there .......... cheese on the table?",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 35,
+    "question_content": "How .............. cakes does she want?",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 36,
+    "question_content": "Peter doesn't want ............. eggs, but he wants some soup.",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 37,
+    "question_content": "There is ............ milk in the glass.",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 38,
+    "question_content": "How ............. meat do you want?",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 39,
+    "question_content": "There isn't .............. coffee in the cup.",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 40,
+    "question_content": "They want ............... coffee, but they don't want any bread.",
+    "a": "some",
+    "b": "any",
+    "c": "many",
+    "d": "much",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 41,
+    "question_content": "Is this your pencil? No, it isn't. It's .............. pencil.",
+    "a": "my",
+    "b": "her",
+    "c": "our",
+    "d": "hers",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 42,
+    "question_content": "................... parents are workers.",
+    "a": "We",
+    "b": "They",
+    "c": "Our",
+    "d": "I",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 43,
+    "question_content": "This is my new shirt. - Oh, .......... color is pretty.",
+    "a": "it",
+    "b": "its",
+    "c": "their",
+    "d": "they",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 44,
+    "question_content": "He is ................. engineer.",
+    "a": "an",
+    "b": "a",
+    "c": "the",
+    "d": "no article",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 45,
+    "question_content": "Your sister is a student and his sister is a student, ................",
+    "a": "both",
+    "b": "also",
+    "c": "and",
+    "d": "too",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 46,
+    "question_content": "My brother is 6.68 m ..............................",
+    "a": "short",
+    "b": "tall",
+    "c": "taller",
+    "d": "shorter",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 47,
+    "question_content": "My mother is 32 and my father is 43. My mother is younger .............. my father.",
+    "a": "than",
+    "b": "as",
+    "c": "but",
+    "d": "and",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 48,
+    "question_content": "I am ........... teacher.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 49,
+    "question_content": "My uncle is ................ good engineer.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 50,
+    "question_content": "That is ................ eraser.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 51,
+    "question_content": "We are both ................... doctors.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 52,
+    "question_content": "This is ................ ink pot.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 53,
+    "question_content": "They are ................. tall.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 54,
+    "question_content": "Pete is ................. good pupil.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 55,
+    "question_content": "That is a bag. It is on ............ table.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 56,
+    "question_content": "We are in ............. same class.",
+    "a": "the",
+    "b": "a",
+    "c": "an",
+    "d": "no article",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 57,
+    "question_content": "Your book is .......... the desk.",
+    "a": "at",
+    "b": "over",
+    "c": "on",
+    "d": "in",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 58,
+    "question_content": "My pens and pencils are ............... the table.",
+    "a": "at",
+    "b": "over",
+    "c": "on",
+    "d": "between",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 59,
+    "question_content": "My family's picture is .......... the wall.",
+    "a": "at",
+    "b": "over",
+    "c": "on",
+    "d": "opposite",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 60,
+    "question_content": "Lan and Lien are ............ the desk.",
+    "a": "at",
+    "b": "in",
+    "c": "on",
+    "d": "into",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 61,
+    "question_content": "No ink is ....... the pot.",
+    "a": "at",
+    "b": "in",
+    "c": "on",
+    "d": "over",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 62,
+    "question_content": "We are ............. work.",
+    "a": "at",
+    "b": "in",
+    "c": "on",
+    "d": "over",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 63,
+    "question_content": "The cat is .............. the dog and the mouse.",
+    "a": "at",
+    "b": "over",
+    "c": "between",
+    "d": "in",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 64,
+    "question_content": "His house is .................. the park.",
+    "a": "at",
+    "b": "over",
+    "c": "between",
+    "d": "opposite",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 65,
+    "question_content": "Tom is not my teacher but he is a friend of ...............",
+    "a": "me",
+    "b": "my",
+    "c": "I",
+    "d": "mine",
+    "answer": "d"
+  },
+  {
+    "level": "a",
+    "stt": 66,
+    "question_content": "Is that ruler yours or............?\n- It's ..........., not mine.",
+    "a": "mine / your",
+    "b": "mine / yours",
+    "c": "my / your",
+    "d": "yours / mine",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 67,
+    "question_content": "Who is that? It's ............ sister.\n- ............... name is Anne.",
+    "a": "Mary's / Her",
+    "b": "Mary / Her",
+    "c": "Mary / Hers",
+    "d": "Mary's / She",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 68,
+    "question_content": "This is John. He is a friend of ............ His wife is also .............. friend.",
+    "a": "my / mine",
+    "b": "me / mine",
+    "c": "mine / my",
+    "d": "yours / my",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 69,
+    "question_content": "Tom and Paul are ........... good friends. ............ are very kind to us.",
+    "a": "our / They",
+    "b": "our / Them",
+    "c": "our / Their",
+    "d": "ours / They",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 70,
+    "question_content": "The teacher is speaking. We must ............. to her.",
+    "a": "hear",
+    "b": "listen",
+    "c": "work",
+    "d": "talk",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 71,
+    "question_content": "Nam is 1.7 m tall. His brother is 1.4 m tall. His brother is ................",
+    "a": "short",
+    "b": "thin",
+    "c": "tall",
+    "d": "fat",
+    "answer": "a"
+  },
+  {
+    "level": "a",
+    "stt": 72,
+    "question_content": "That book is not mine. It is .............., I think.",
+    "a": "her",
+    "b": "she",
+    "c": "hers",
+    "d": "your",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 73,
+    "question_content": "Who is that? - It is ...............",
+    "a": "book",
+    "b": "Mr. Pike",
+    "c": "ruler",
+    "d": "me",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 74,
+    "question_content": "What is the weather like today? It's ............ today.",
+    "a": "blue",
+    "b": "fine",
+    "c": "sad",
+    "d": "well",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 75,
+    "question_content": "How are you? I am ........., thanks.",
+    "a": "eleven",
+    "b": "big",
+    "c": "well",
+    "d": "sad",
+    "answer": "c"
+  },
+  {
+    "level": "a",
+    "stt": 76,
+    "question_content": "My father is a doctor. Lan's father is a doctor, too. They are .......... doctors.",
+    "a": "not",
+    "b": "both",
+    "c": "or",
+    "d": "and",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 77,
+    "question_content": "Oh, look at that cat. .......... is very nice ........ tail is very long and nice.",
+    "a": "It / It's",
+    "b": "It / Its",
+    "c": "It's / Its",
+    "d": "It / It",
+    "answer": "b"
+  },
+  {
+    "level": "a",
+    "stt": 78,
+    "question_content": "This is our classroom, not Bob's. ............. classroom is over there. ......... isn't in the classroom now.",
+    "a": "His / He's",
+    "b": "His / His",
+    "c": "He's / His",
+    "d": "His / He",
+    "answer": "d"
+  }
+]

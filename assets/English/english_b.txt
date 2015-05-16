@@ -1,0 +1,2992 @@
+[
+  {
+    "level": "b",
+    "stt": 1,
+    "question_content": "The mausoleum is ................. by Thien Thu mountain, two towering columns and a vast expanse of water.",
+    "a": "feed",
+    "b": "feeding",
+    "c": "fed",
+    "d": "feeds",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 2,
+    "question_content": "Put plants ............... a window so that they will get enough light.",
+    "a": "near to",
+    "b": "near of",
+    "c": "next to",
+    "d": "nearly",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 3,
+    "question_content": "Employers often require that candidates have not only a degree .............",
+    "a": "but two years experience",
+    "b": "also two years experience",
+    "c": "but also two-year experience",
+    "d": "but more two years experience",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 4,
+    "question_content": "Richard Nixon had been a lawyer and ............... before he entered politics.",
+    "a": "served in the Navy as an officer",
+    "b": "an officer in the Navy",
+    "c": "the Navy had him as an officer",
+    "d": "did service in the Navy as an officer",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 5,
+    "question_content": "If one of the participants in a conversation wonders ............... no real communication has taken place.",
+    "a": "what said the other person",
+    "b": "what the other person said",
+    "c": "what did the other person say",
+    "d": "what was the other person saying",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 6,
+    "question_content": "The salary of a bus driver is much higher ................",
+    "a": "in comparison with the salary of a teacher",
+    "b": "than a teacher",
+    "c": "than that of a teacher",
+    "d": "to compare as a teacher",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 7,
+    "question_content": "Professional people expect ............... when it is necessary to cancel an appointment.",
+    "a": "you to call them",
+    "b": "that you would call them",
+    "c": "your calling them",
+    "d": "that you are calling them",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 8,
+    "question_content": "Sedimentary rocks are formed below the surface of the earth ............... very high temperatures and pressures.",
+    "a": "where there are",
+    "b": "there are",
+    "c": "where are there",
+    "d": "there are where",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 9,
+    "question_content": "Farmers look forward to ............... every summer",
+    "a": "participating in the county fairs",
+    "b": "participate in the county fairs",
+    "c": "be participating in the county fairs",
+    "d": "have participated in the county fairs",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 10,
+    "question_content": "Clipper ships were the swiftest sailing ships that …………………. to sea and the most beautiful.",
+    "a": "ever were put",
+    "b": "were ever putted",
+    "c": "were ever put",
+    "d": "ever were putted",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 11,
+    "question_content": "The ships had their days of …………………. in the 1840s and 1850s.",
+    "a": "glorious",
+    "b": "glory",
+    "c": "glorify",
+    "d": "gloriously",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 12,
+    "question_content": "Tea loses its flavor quickly …………………… in the hold of a vessel.",
+    "a": "when storing",
+    "b": "stored",
+    "c": "when stored",
+    "d": "storing",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 13,
+    "question_content": "Earl was one of the first American artists …………………. landscapes",
+    "a": "painting",
+    "b": "painted",
+    "c": "for painting",
+    "d": "to paint",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 14,
+    "question_content": "The crime rate has continued to rise in American cities despite efforts on the part of both government and private citizens to curb ................",
+    "a": "them",
+    "b": "him",
+    "c": "its",
+    "d": "it",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 15,
+    "question_content": "In 1778, he ……………… to London to study with Benjamin West for four years.",
+    "a": "has gone",
+    "b": "had gone",
+    "c": "would go",
+    "d": "went",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 16,
+    "question_content": "No one has been able to satisfactorily explain how or ………………. the Moon sporadically sparks.",
+    "a": "when",
+    "b": "why",
+    "c": "what",
+    "d": "which",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 17,
+    "question_content": "The basic fiber-optics system is called a fiberscope, …………………. consists of two bundles of fibers.",
+    "a": "which",
+    "b": "in which",
+    "c": "where",
+    "d": "what",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 18,
+    "question_content": "Physicians can look into the lungs, heart and other areas that were formerly ……………….. to them.",
+    "a": "accessibly",
+    "b": "access",
+    "c": "accessible",
+    "d": "inaccessible",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 19,
+    "question_content": "............... his highly individual conceptions of music and chaos, John Cage became a leading figure in avant-garde music.",
+    "a": "Such was",
+    "b": "Due to",
+    "c": "Because from",
+    "d": "That",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 20,
+    "question_content": "Sanford Meisner ............... the Neighborhood Playhouse in New York City.",
+    "a": "founding and directing",
+    "b": "who founded and directed",
+    "c": "founded and directed",
+    "d": "in finding and directing",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 21,
+    "question_content": "Experiments in the sonic imaging of moving objects ............... in both the United States and Europe well before the Second World War.",
+    "a": "were conducting",
+    "b": "have been conducted",
+    "c": "had been conducted",
+    "d": "being conducted",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 22,
+    "question_content": "............... billions and billions of stars exist in the vast space beyond our Milky Way galaxy.",
+    "a": "That is estimated",
+    "b": "An estimate that",
+    "c": "That the estimate",
+    "d": "It is estimated that",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 23,
+    "question_content": "............... gene-bearing bodies within the nuclei of living organisms.",
+    "a": "Chromosomes",
+    "b": "Chromosomes that are",
+    "c": "Chromosomes are",
+    "d": "Chromosomes while they are",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 24,
+    "question_content": "Abner Doubleday, ..............., was credited with the invention of baseball in 1839.",
+    "a": "who become a Union army general",
+    "b": "which became a Union army general",
+    "c": "who were a Union army general",
+    "d": "a Union army general",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 25,
+    "question_content": "............... photosynthesis were to stop, life would disappear from the planet Earth relatively quickly",
+    "a": "For",
+    "b": "However",
+    "c": "If",
+    "d": "Although",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 26,
+    "question_content": "Each fiber in the bundle …………….. only a tiny fraction of the total image",
+    "a": "ransmit",
+    "b": "transmitted",
+    "c": "transmits",
+    "d": "to transmit",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 27,
+    "question_content": "Antonio Gaudi, architect of Barcelona's Holy Family Church, died before seeing ............... the structure",
+    "a": "on completion of",
+    "b": "the completion of",
+    "c": "completing of",
+    "d": "their completing of",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 28,
+    "question_content": "This is the factory ................................. at work.",
+    "a": "they are",
+    "b": "where they are",
+    "c": "where are",
+    "d": "in where they are",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 29,
+    "question_content": "America's first globe maker was James Wilson, who ................... and blacksmith in his earlier life.",
+    "a": "a farmer had been",
+    "b": "had been a farmer",
+    "c": "farming",
+    "d": "being a farmer",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 30,
+    "question_content": "Napoleon ................... the West Indian island of Santo Domingo in 1801.",
+    "a": "attacked",
+    "b": "is attacking",
+    "c": "has attracted",
+    "d": "attacking",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 31,
+    "question_content": "Modern industrial methods have supplanted individual crafts, ................... stone carvers, coopers, and cobblers virtually extinct.",
+    "a": "make blacksmiths,",
+    "b": "made blacksmiths,",
+    "c": "making them blacksmiths,",
+    "d": "making blacksmiths,",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 32,
+    "question_content": "Not only knowledge and skills, but also attitudes ................... in school for students' future adjustment to society.",
+    "a": "when cultivated",
+    "b": "cultivated",
+    "c": "which need to be cultivated",
+    "d": "need to be cultivated",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 33,
+    "question_content": "On Mercator's maps, the far northern and southern polar regions are ....................",
+    "a": "greatly exaggerated in area",
+    "b": "exaggerating greatly in area",
+    "c": "greatly exaggerate in area.",
+    "d": "great exaggeration in area.",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 34,
+    "question_content": "On the slope of Long's Peak in Colorado ................... the ruin of a gigantic tree.",
+    "a": "that lies",
+    "b": "lies",
+    "c": "where lies",
+    "d": "lie",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 35,
+    "question_content": "................... in Shanghai than in any other city in China.",
+    "a": "More people live",
+    "b": "More people living",
+    "c": "It has more people",
+    "d": "More living people",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 36,
+    "question_content": "The earth spins on its axis and ................... 23 hours, 56 minutes and 4.09 seconds for one complete rotation.",
+    "a": "need",
+    "b": "needed",
+    "c": "needing",
+    "d": "needs",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 37,
+    "question_content": "................... on the environment for the gratification of its needs.",
+    "a": "Each organism to depend",
+    "b": "Every organism depends",
+    "c": "All organisms depending",
+    "d": "Many organisms can depend",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 38,
+    "question_content": "Of Charles Dickens' many novels, expectations perhaps ................... to many readers.",
+    "a": "the most satisfying one",
+    "b": "most satisfying one",
+    "c": "more than satisfying one",
+    "d": "the more satisfying than",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 39,
+    "question_content": "..................., the nation's capital remained in Philadelphia, Pennsylvania.",
+    "a": "While designing Washington, D.C.",
+    "b": "Washington, D.C., was designed",
+    "c": "While Washington, D.C., was being designed",
+    "d": "Washington, D.C., designed",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 40,
+    "question_content": "Children learn primarily by ................... the world around them.",
+    "a": "experiencing directly of",
+    "b": "experience direct",
+    "c": "directly physical experience",
+    "d": "direct physical experience of",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 41,
+    "question_content": "It is earth's gravity that ................... people their weight.",
+    "a": "gives",
+    "b": "give",
+    "c": "giving",
+    "d": "given",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 42,
+    "question_content": "Generally speaking, people should have ................... as their desires will allow.",
+    "a": "much education",
+    "b": "as much education",
+    "c": "education",
+    "d": "for education",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 43,
+    "question_content": "A dolphin six ................... length can move as fast as most ships.",
+    "a": "foot in",
+    "b": "feet in",
+    "c": "foot of",
+    "d": "feet of",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 44,
+    "question_content": "With new technology, cameras can take pictures of underwater valleys\n................... color.",
+    "a": "within",
+    "b": "for",
+    "c": "in",
+    "d": "by",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 45,
+    "question_content": "................. the fifth largest among the nine planets that make up our solar system.",
+    "a": "The Earth is",
+    "b": "The Earth being",
+    "c": "That the Earth is",
+    "d": "Being the Earth",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 46,
+    "question_content": "In mathematics, a variable is a symbol ................. some element of a set.",
+    "a": "and representing",
+    "b": "represents",
+    "c": "that represents",
+    "d": "represents that",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 47,
+    "question_content": ".................. actress's life is in many ways unlike that of other women.",
+    "a": "An",
+    "b": "A",
+    "c": "As the",
+    "d": "That the",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 48,
+    "question_content": "About 20 miles from Boston, .................. a little town named Concord that has a rich history.",
+    "a": "has",
+    "b": "there is",
+    "c": "there are",
+    "d": "where is",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 49,
+    "question_content": "An advisor to both Franklin Delano Roosevelt and Harry Truman, ................. of Bethune Cookman College.",
+    "a": "Dr. Mary Mcleod Bethune was the founder",
+    "b": "Dr. Mary Mcleod Bethune, who was the founder",
+    "c": "the founder was Dr. Mary Mcleod Bethune",
+    "d": "did the founder Dr. Mary Mcleod Bethune",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 50,
+    "question_content": "Warmth, moisture, and oxygen are three necessary requirements ................. most seedlings.",
+    "a": "for cultivating",
+    "b": "for cultivate",
+    "c": "as cultivating",
+    "d": "can cultivate",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 51,
+    "question_content": "They share the housework …..................... between them.",
+    "a": "equally",
+    "b": "equal",
+    "c": "they are equal",
+    "d": "and equal",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 52,
+    "question_content": "A well-known large natural lake is Lake Tahoe, ................. straddles the California-Nevada border.",
+    "a": "and",
+    "b": "which",
+    "c": "since",
+    "d": "for",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 53,
+    "question_content": "Before ................., they used horse-drawn wooden carts.",
+    "a": "farmers have had tractors",
+    "b": "tractors owned by farmers",
+    "c": "having tractors farmers",
+    "d": "farmers had tractors",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 54,
+    "question_content": "Tuna, ................., may weigh up to 1,000 pounds",
+    "a": "is the sea giant",
+    "b": "can be giants of the sea",
+    "c": "one of the sea giants",
+    "d": "the sea of the giant",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 55,
+    "question_content": "Physical fitness exercises can cause injuries ................. the participants are not careful",
+    "a": "that",
+    "b": "to",
+    "c": "if",
+    "d": "with",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 56,
+    "question_content": "Total weight of all the ants in the world is much greater than .................",
+    "a": "to all human beings",
+    "b": "all human beings is that",
+    "c": "that of all human beings",
+    "d": "is of all human beings",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 57,
+    "question_content": "................. for overall health.",
+    "a": "Extra fiber in one's diet is helpful",
+    "b": "Extra fiber is one's helpful diet",
+    "c": "Helpful one's diet is extra fiber",
+    "d": "One's diet is helpful in extra fiber",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 58,
+    "question_content": "Elephants scratch themselves with sticks ..................",
+    "a": "holding in their trunks",
+    "b": "in their trunks holding",
+    "c": "hold in their trunks",
+    "d": "held in their trunks",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 59,
+    "question_content": "Van Gogh's \"Sunflowers\" .............. $39.9 million, three times the previous record.",
+    "a": "once sold for",
+    "b": "for sale once",
+    "c": "selling for once",
+    "d": "for once sold",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 60,
+    "question_content": "Some monkeys, ................., use their tails in a way similar to a hand.",
+    "a": "like the spider monkey",
+    "b": "spider monkey likes",
+    "c": "to the spider monkey",
+    "d": "he monkey likes the spider",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 61,
+    "question_content": "Black, red, and even bright pink diamonds ......................",
+    "a": "occasionally to find",
+    "b": "occasionally found",
+    "c": "have occasionally been found",
+    "d": "have occasionally found",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 62,
+    "question_content": "Between the California Coast Range and the Sierra Nevada .....................",
+    "a": "great Central Valley",
+    "b": "the great Central Valley",
+    "c": "being the great Central Valley",
+    "d": "lies the great Central Valley",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 63,
+    "question_content": "It is gravity ................. objects toward the earth.",
+    "a": "pull",
+    "b": "that pulls",
+    "c": "to pull",
+    "d": "what pulls",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 64,
+    "question_content": "................. their territories but rather than fight, they howl.",
+    "a": "Wolves protectively jealous",
+    "b": "Jealous of wolves",
+    "c": "Protection of wolves",
+    "d": "Wolves jealously protect",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 65,
+    "question_content": "................. strength of 70 horses, a forklift toils all day long in a warehouse lifting great weights.",
+    "a": "Because the",
+    "b": "With the",
+    "c": "Some",
+    "d": "The",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 66,
+    "question_content": "The growth of two-income families in the United States .................. of people moving to a new social class.",
+    "a": "has resulted in millions",
+    "b": "results of millions",
+    "c": "millions of results",
+    "d": "resulting in millions",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 67,
+    "question_content": "Using a globe can be ................. it is educational",
+    "a": "enjoyable",
+    "b": "to enjoy as",
+    "c": "as enjoyable",
+    "d": "as enjoyable as",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 68,
+    "question_content": "Each mediocre book we read means one less great book that we would otherwise have a chance ..................",
+    "a": "to read them",
+    "b": "read",
+    "c": "reading",
+    "d": "to read",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 69,
+    "question_content": "Most accidents in the home can be prevented by ................. elimination of hazards.",
+    "a": "that",
+    "b": "that the",
+    "c": "there is a",
+    "d": "the",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 70,
+    "question_content": "................. problems in sailing in tropical seas is the coral reefs",
+    "a": "One of the biggest",
+    "b": "The biggest one",
+    "c": "Of the biggest one",
+    "d": "There are the biggest",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 71,
+    "question_content": "The strongest dump trucks work in rock quarries, ................. tons of rocks and soil at one time",
+    "a": "that they move",
+    "b": "they move",
+    "c": "where they move",
+    "d": "which they move",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 72,
+    "question_content": "Alice Freeman, ................. to head Wellesley College at age 27, is one of the youngest college presidents in history.",
+    "a": "who was appointed",
+    "b": "has been appointed",
+    "c": "that is appointed",
+    "d": "is appointed",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 73,
+    "question_content": "Helen Keller lost both her sight and hearing after a severe illness .................",
+    "a": "of her age in 19 months",
+    "b": "she was 19 months old",
+    "c": "when she was 19 months old",
+    "d": "when 19 months old she was",
+    "answer": ""
+  },
+  {
+    "level": "b",
+    "stt": 74,
+    "question_content": "Because aluminum is lighter and cheaper ............., it is frequently used for high-tension power transmission",
+    "a": "as copper",
+    "b": "than copper",
+    "c": "for copper",
+    "d": "more copper",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 75,
+    "question_content": "It is only recently that ballets have been based on themes ............. American life.",
+    "a": "reflecting",
+    "b": "reflects",
+    "c": "is reflecting",
+    "d": "reflected",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 76,
+    "question_content": "Poison oak generates irritating poisons ............. even if people merely brush against the plants.",
+    "a": "they can affect people",
+    "b": "that can affect people",
+    "c": "what can effect people",
+    "d": "which do they affect",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 77,
+    "question_content": "............. ants live in colonies, keep farms, go to war, carry off slaves, and have a society somewhat like human beings.",
+    "a": "Studies of ant life show that",
+    "b": "Studies of ant life that",
+    "c": "That is studied",
+    "d": "That the studies of ant life",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 78,
+    "question_content": "Generic medications are just as ............., and much less expensive",
+    "a": "effectively brand-name products",
+    "b": "brand-name products effective",
+    "c": "brand-name products as effective",
+    "d": "effective as brand-name products",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 79,
+    "question_content": "............. is no way to tell the exact number of heroin addicts in the United States.",
+    "a": "It",
+    "b": "There",
+    "c": "What",
+    "d": "Each",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 80,
+    "question_content": "Ernest Hemingway is ............. of modern fiction.",
+    "a": "one of the molders",
+    "b": "the molders one",
+    "c": "who is one of the molders",
+    "d": "the molders who is the one",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 81,
+    "question_content": "............. occasions for congratulations",
+    "a": "Birthdays that usually considered",
+    "b": "Usually considering birthdays",
+    "c": "Birthdays are usually considered",
+    "d": "That considered birthdays usually",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 82,
+    "question_content": "Forty-niners ............. to California for gold in 1848",
+    "a": "rushed",
+    "b": "are rushed",
+    "c": "have rushed",
+    "d": "rushing",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 83,
+    "question_content": "In order for people to work together effectively, they need ............. each other's needs.",
+    "a": "to be sensitive to",
+    "b": "is sensitive for",
+    "c": "sensitivity",
+    "d": "sensitive",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 84,
+    "question_content": "It is good form to use the name of the person ..............",
+    "a": "who are greeting",
+    "b": "you are greeting",
+    "c": "which you are greeting",
+    "d": "greeting for you",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 85,
+    "question_content": "............. the promotion of health and to helping people avoid injury and disease.",
+    "a": "To commit the Red Cross",
+    "b": "The Red Cross to commit",
+    "c": "Committed to the Red Cross is",
+    "d": "The Red Cross is committed to",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 86,
+    "question_content": "People usually can get a sufficient amount of the calcium their bodies ............. from the food they consume",
+    "a": "need",
+    "b": "needs",
+    "c": "needing",
+    "d": "to need",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 87,
+    "question_content": "It is possible ............. may assist some trees in saving water in the winter",
+    "a": "the leaves are lost",
+    "b": "when leaves have lost",
+    "c": "that the loss of leaves",
+    "d": "to lose leaves",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 88,
+    "question_content": "Hollywood, the heart of America's motion picture industry, ............. of Los Angeles a century ago.",
+    "a": "was only a quiet suburb",
+    "b": "only quiet suburb was",
+    "c": "quiet suburb only was",
+    "d": "suburb was quiet only",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 89,
+    "question_content": "Kitchen appliances called blenders became ............. in the 1930s, when Stephen J. Poplawski developed a machine that excelled at making his favorite drink.",
+    "a": "establish",
+    "b": "establishing",
+    "c": "established",
+    "d": "which establish",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 90,
+    "question_content": "Built at the beginning of the century, the Library of Congress houses one of the largest ............. collections of books in the world.",
+    "a": "and fine",
+    "b": "and finest",
+    "c": "or finest",
+    "d": "yet fine",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 91,
+    "question_content": "In the preparation of fibrous material for production uses, stiff woody fibers from plants ............. fibers from animal sources",
+    "a": "the most heat the",
+    "b": "need more heat than",
+    "c": "than more heat needed",
+    "d": "need the more heat than",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 92,
+    "question_content": "Partnership is an association of two or more individuals who ............. together to develop a business",
+    "a": "worked",
+    "b": "they work",
+    "c": "work",
+    "d": "working",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 93,
+    "question_content": "Chosen as the nation's capital at the end of the American Civil War, ............. a city of over a million people.",
+    "a": "Washington, D.C., is now",
+    "b": "for Washington, D.C.,",
+    "c": "to Washington, D.C.,",
+    "d": "now in Washington, D.C.,",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 94,
+    "question_content": "Within an area of only 100 miles, Death Valley sinks to 282 feet below sea level while Mount Whitney ............. to a height of 14,494 feet.",
+    "a": "soaring",
+    "b": "soar",
+    "c": "soared",
+    "d": "soars",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 95,
+    "question_content": "The cosmopolitan flavor of San Francisco is enhanced by ............. shops and restaurants",
+    "a": "an ethnic",
+    "b": "its many ethnic",
+    "c": "its ethnicity",
+    "d": "ethnicity",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 96,
+    "question_content": "............. that increasing numbers of compact-disc players will be bought by consumers in the years to come.",
+    "a": "They are anticipated",
+    "b": "In anticipation",
+    "c": "Anticipating",
+    "d": "It is anticipated",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 97,
+    "question_content": "Birds all over the world ............. in distances up to thousands of miles",
+    "a": "migrating",
+    "b": "migrated",
+    "c": "migrate",
+    "d": "are migrated",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 98,
+    "question_content": "Cellulose, which ............. for making paper, can be found in all plants.",
+    "a": "is used",
+    "b": "uses",
+    "c": "are used",
+    "d": "is using",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 99,
+    "question_content": "............. , human beings have relatively constant body temperature",
+    "a": "Alike all mammal",
+    "b": "Alike all mammals",
+    "c": "Like all mammals",
+    "d": "Like all mammal",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 100,
+    "question_content": "So far there is no vaccine ............. in sight for the common cold.",
+    "a": "or curing",
+    "b": "has cured",
+    "c": "or cure",
+    "d": "having cured",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 101,
+    "question_content": "The Louisiana Territory, an area ............. the size of France, was bought by the United States from France for $15,000,000 in 1803.",
+    "a": "than more four times",
+    "b": "more than four times",
+    "c": "four times than more",
+    "d": "is four times more than",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 102,
+    "question_content": "Despite claims that filters and low-tar tobacco make smoking somewhat safer, in fact they only marginally reduce, ............. eliminate the hazards",
+    "a": "none",
+    "b": "no",
+    "c": "not",
+    "d": "nor",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 103,
+    "question_content": "............. many of the designs for the new capital were considered lost forever, Benjamin Banneker helped reproduce the original plans.",
+    "a": "When",
+    "b": "During",
+    "c": "If as",
+    "d": "How",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 104,
+    "question_content": "Few natural elements exist in ............. that they are rarely seen in their natural environments.",
+    "a": "such small quantities",
+    "b": "so small quantities",
+    "c": "very small quantities",
+    "d": "small quantity",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 105,
+    "question_content": "Generally speaking, every person ............. the potential to be a teacher, to some extent.",
+    "a": "has",
+    "b": "to have",
+    "c": "having",
+    "d": "have",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 106,
+    "question_content": "............. business, a merger is a combination of two or more corporations under one management",
+    "a": "The",
+    "b": "At",
+    "c": "On",
+    "d": "In",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 107,
+    "question_content": "............. of commodities by air began in the 1920s at the same time as airmail service",
+    "a": "The shipping",
+    "b": "A ship",
+    "c": "The shipped",
+    "d": "To ship",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 108,
+    "question_content": "Jan Malzeliger's invention, the shoe-lasting machine, ............. production but it also cut the cost of shoe production by half.",
+    "a": "not only increased",
+    "b": "not increased only",
+    "c": "increased only",
+    "d": "only have increased",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 109,
+    "question_content": "It can sometimes ............. a home",
+    "a": "to take months to sell",
+    "b": "take several months to sell",
+    "c": "selling takes several months",
+    "d": "to sell taking several months",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 110,
+    "question_content": "Jellyfish are probably ............. on Earth.",
+    "a": "most numerous predators",
+    "b": "the most numerous predators",
+    "c": "most numerous of predators",
+    "d": "the most predators",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 111,
+    "question_content": "In the United States ............. is the most concentrated is New Orleans.",
+    "a": "French influence the city",
+    "b": "the city where French influence",
+    "c": "where the city influences French",
+    "d": "where the French influence the city",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 112,
+    "question_content": "A log grabber has a long arm ............., which stretches out to pick up logs.",
+    "a": "calls a jib",
+    "b": "calling a jib",
+    "c": "a jib called",
+    "d": "called a jib",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 113,
+    "question_content": "A home computer ............. an opportunity for convenient and efficient work at home.",
+    "a": "provides",
+    "b": "to be providing",
+    "c": "which provides",
+    "d": "providing it",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 114,
+    "question_content": "Eli Whitney's milling machine remained unchanged for a century and a half because ............. was so efficient",
+    "a": "it",
+    "b": "he",
+    "c": "of",
+    "d": "its",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 115,
+    "question_content": "Some of the rainwater from clouds evaporates before ..............",
+    "a": "reaching the ground",
+    "b": "to reach the ground",
+    "c": "reach the ground",
+    "d": "the ground reaches",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 116,
+    "question_content": "Once an offending allergen has been identified ............. tests, it is possible for the doctor to give specific desensitizing injections.",
+    "a": "means of",
+    "b": "by means of",
+    "c": "of the means by",
+    "d": "by means",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 117,
+    "question_content": "Sometimes ............. wears people out and is worse than the lack of sleep itself.",
+    "a": "to sleep the desire",
+    "b": "the desire to sleep",
+    "c": "to desire sleep is",
+    "d": "the desire to sleep who",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 118,
+    "question_content": "Although dissimilar in almost every other respect, birds and insects have both evolved efficient ............. capabilities",
+    "a": "fly",
+    "b": "flying",
+    "c": "to fly",
+    "d": "is flying",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 119,
+    "question_content": "The wheel, ............. has remained important for 4,000 years, is one of mankind's first inventions.",
+    "a": "how",
+    "b": "when",
+    "c": "which",
+    "d": "about",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 120,
+    "question_content": "............. children master the basics, advanced development becomes easier.",
+    "a": "The",
+    "b": "Once",
+    "c": "That",
+    "d": "Even",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 121,
+    "question_content": "............. there is a close correlation between stress and illness",
+    "a": "Some psychologists believe",
+    "b": "Believed some psychologists",
+    "c": "Some psychologists to believe",
+    "d": "Some psychologists believing",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 122,
+    "question_content": "............. is often used in soups and sauces.",
+    "a": "Parsley, an inexpensive herb,",
+    "b": "Parsley is an inexpensive herb",
+    "c": "Inexpensive parsley, herb",
+    "d": "An herb is inexpensive parsley,",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 123,
+    "question_content": "Perspiration increases ............. vigorous exercise or hot weather.",
+    "a": "during",
+    "b": "when",
+    "c": "at the time",
+    "d": "for",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 124,
+    "question_content": "Goddard developed the first rocket to fly faster .............",
+    "a": "than sound is",
+    "b": "does sound",
+    "c": "sound",
+    "d": "than sound",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 125,
+    "question_content": "Even if the unemployment rate ............. sharply, the drop may still be temporary.",
+    "a": "to drop",
+    "b": "dropping",
+    "c": "have dropped",
+    "d": "drops",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 126,
+    "question_content": "Studies indicate ............. collecting art today than ever before.",
+    "a": "there are that more people",
+    "b": "more people that are",
+    "c": "that there are more people",
+    "d": "people there are more",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 127,
+    "question_content": "Thieu Tri was a ............... poet who would pen a verse or two at a moment's notice.",
+    "a": "prolific",
+    "b": "prolifically",
+    "c": "prolificacy",
+    "d": "prolificity",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 128,
+    "question_content": "I've been to the theater ................... of times.",
+    "a": "much",
+    "b": "a little",
+    "c": "most of",
+    "d": "few",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 129,
+    "question_content": "But ............... of the plays I've seen are modern.",
+    "a": "a few of",
+    "b": "a little",
+    "c": "most",
+    "d": "many",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 130,
+    "question_content": "When I studied Shakespeare, I thought his plays were ............... boring.",
+    "a": "a great deal of",
+    "b": "few",
+    "c": "much",
+    "d": "many",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 131,
+    "question_content": ".................. of Shakespeare's plays are about history.",
+    "a": "A few of",
+    "b": "Many",
+    "c": "Much",
+    "d": "A little",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 132,
+    "question_content": "They spent ............. time studying Victorian literature.",
+    "a": "few",
+    "b": "many",
+    "c": "c. a large number of",
+    "d": "much",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 133,
+    "question_content": ".................. popular expressions in our language have interesting background.",
+    "a": "Little",
+    "b": "Many",
+    "c": "A large number",
+    "d": "Much",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 134,
+    "question_content": "At the beginning everybody spoke English very quickly and I couldn't understand ........... But after ................. days, it is easier and .................. things I had learnt came back to me.",
+    "a": "much / a few / many",
+    "b": "a lot / little / a lot",
+    "c": "much / much / a great number",
+    "d": "many / a few / many",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 135,
+    "question_content": "They ................. in New York next week.",
+    "a": "arrive",
+    "b": "will arrive",
+    "c": "has arrived",
+    "d": "have arrived",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 136,
+    "question_content": "This is the best performance of Hamlet that I ............. in years.",
+    "a": "had seen",
+    "b": "saw",
+    "c": "have seen",
+    "d": "see",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 137,
+    "question_content": "They .......... that you are going to be late.",
+    "a": "will know",
+    "b": "know",
+    "c": "knew",
+    "d": "have known",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 138,
+    "question_content": "The people that I ................. here have been very friendly.",
+    "a": "to meet",
+    "b": "meet",
+    "c": "have met",
+    "d": "had met",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 139,
+    "question_content": "The plug has come out of the .......................",
+    "a": "sock",
+    "b": "socket",
+    "c": "socking",
+    "d": "soccer",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 140,
+    "question_content": "She says that she .......... the bill next week.",
+    "a": "pays",
+    "b": "will pay",
+    "c": "has paid",
+    "d": "is paying",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 141,
+    "question_content": "That is the best book that I ......... on that subject.",
+    "a": "had read",
+    "b": "read",
+    "c": "have read",
+    "d": "am reading",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 142,
+    "question_content": "Yesterday I met the woman who ............... us with the work next month",
+    "a": "will help",
+    "b": "helps",
+    "c": "has helped",
+    "d": "is helping",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 143,
+    "question_content": "That ........... the best movie that I had seen for a long time.",
+    "a": "will be",
+    "b": "has been",
+    "c": "is",
+    "d": "was",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 144,
+    "question_content": "He said that he .............. me there at 4.30 this afternoon.",
+    "a": "would meet",
+    "b": "met",
+    "c": "will meet",
+    "d": "meets",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 145,
+    "question_content": "Maxwell .......... three dollars for the tie he bought at Macy's.",
+    "a": "had paid",
+    "b": "paid",
+    "c": "pays",
+    "d": "would pay",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 146,
+    "question_content": "The salesman was telling me that he ......... ten cars last week.",
+    "a": "sold",
+    "b": "had sold",
+    "c": "would sell",
+    "d": "has sold",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 147,
+    "question_content": "Did Bob say that he ............. from Princeton in 1951?",
+    "a": "would graduate",
+    "b": "graduates",
+    "c": "has graduated",
+    "d": "had graduated",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 148,
+    "question_content": "We bought a used car that had belonged to an old couple who used the car only when they ............ shopping.",
+    "a": "go",
+    "b": "went",
+    "c": "are going",
+    "d": "has gone",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 149,
+    "question_content": "The man who will replace Mr. Stuart ............... yesterday.",
+    "a": "arrives",
+    "b": "will arrive",
+    "c": "arrived",
+    "d": "has arrived",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 150,
+    "question_content": "We thought that they .............. to Arizona yesterday.",
+    "a": "would move",
+    "b": "moved",
+    "c": "will move",
+    "d": "had moved",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 151,
+    "question_content": "We'll wait until she..................",
+    "a": "arrive",
+    "b": "arrives",
+    "c": "will arrive",
+    "d": "shall arrive",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 152,
+    "question_content": "Call Jack as soon as you ............. in town.",
+    "a": "get",
+    "b": "gets",
+    "c": "will get",
+    "d": "shall get",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 153,
+    "question_content": "He knows he has ……………. when he is asked to appear on TV.",
+    "a": "arrived",
+    "b": "arrives",
+    "c": "will arrive",
+    "d": "shall arrive",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 154,
+    "question_content": "I'll think about your suggestion while I .......... for you.",
+    "a": "am waiting",
+    "b": "will wait",
+    "c": "wait",
+    "d": "waits",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 155,
+    "question_content": "Before Jack leaves New York, he ............ several new plays.",
+    "a": "see",
+    "b": "saw",
+    "c": "has seen",
+    "d": "had seen",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 156,
+    "question_content": "They will be very happy when they ............... the news.",
+    "a": "hear",
+    "b": "will hear",
+    "c": "heard",
+    "d": "has heard",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 157,
+    "question_content": "I always .......... better after I have rested a while.",
+    "a": "feel",
+    "b": "feels",
+    "c": "will feel",
+    "d": "has felt",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 158,
+    "question_content": "We will have learned many new words before we ................ through this course.",
+    "a": "have got",
+    "b": "got",
+    "c": "get",
+    "d": "will get",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 159,
+    "question_content": "It is two o'clock, and I .................. my homework yet.",
+    "a": "haven't finished",
+    "b": "didn't finish",
+    "c": "hadn't finished",
+    "d": "don't finish",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 160,
+    "question_content": "We usually go out to dinner when we ................ late.",
+    "a": "work",
+    "b": "worked",
+    "c": "has worked",
+    "d": "had worked",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 161,
+    "question_content": "She will be ready when he ..................... here.",
+    "a": "get",
+    "b": "gets",
+    "c": "has got",
+    "d": "will get",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 162,
+    "question_content": "The child always cries when his mother ........... out of the house.",
+    "a": "go",
+    "b": "goes",
+    "c": "will go",
+    "d": "has gone",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 163,
+    "question_content": "They often listen to the radio while they ............ in their car.",
+    "a": "is traveling",
+    "b": "travel",
+    "c": "will travel",
+    "d": "has traveled",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 164,
+    "question_content": "We saw several old friends while we ........... in Baltimore.",
+    "a": "are",
+    "b": "were",
+    "c": "has been",
+    "d": "will be",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 165,
+    "question_content": "Raymond ............ two new shirts when he was downtown today.",
+    "a": "buy",
+    "b": "bought",
+    "c": "had bought",
+    "d": "has bought",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 166,
+    "question_content": "After we had had breakfast, we ............ the house.",
+    "a": "leave",
+    "b": "left",
+    "c": "had left",
+    "d": "has left",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 167,
+    "question_content": "I had heard the news before you ................ me about it.",
+    "a": "tell",
+    "b": "told",
+    "c": "has told",
+    "d": "had told",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 168,
+    "question_content": "It ................. when I got up this morning",
+    "a": "rains",
+    "b": "rained",
+    "c": "had rained",
+    "d": "was raining",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 169,
+    "question_content": "Mary was not feeling well when she ............. down yesterday.",
+    "a": "fall",
+    "b": "fell",
+    "c": "has fallen",
+    "d": "had fallen",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 170,
+    "question_content": "He signed the contract after he ............ each statement carefully",
+    "a": "reads",
+    "b": "read",
+    "c": "has read",
+    "d": "had read",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 171,
+    "question_content": "Jim had just turned out the lights when the doorbell ................",
+    "a": "rings",
+    "b": "rang",
+    "c": "has rung",
+    "d": "had rung",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 172,
+    "question_content": "I work so hard that I ................ tired.",
+    "a": "am",
+    "b": "was",
+    "c": "be",
+    "d": "has been",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 173,
+    "question_content": "I'll return the books to the library if I ............. time.",
+    "a": "have",
+    "b": "had",
+    "c": "will have",
+    "d": "would have",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 174,
+    "question_content": "Richard left dirty footmarks wherever he .............",
+    "a": "go",
+    "b": "goes",
+    "c": "went",
+    "d": "had gone",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 175,
+    "question_content": "I worked so hard that I ................ tired.",
+    "a": "am",
+    "b": "was",
+    "c": "be",
+    "d": "has been",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 176,
+    "question_content": "Don't handle those cups and saucers as if they ................. made of iron.",
+    "a": "are",
+    "b": "were",
+    "c": "has been",
+    "d": "had been",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 177,
+    "question_content": "I am standing where I ................ the game.",
+    "a": "can see",
+    "b": "could see",
+    "c": "can't see",
+    "d": "couldn't see",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 178,
+    "question_content": "Use the paint-brush as I ................ you yesterday",
+    "a": "show",
+    "b": "showed",
+    "c": "had showed",
+    "d": "has showed",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 179,
+    "question_content": "Everywhere I ............ there were dirty footmarks",
+    "a": "look",
+    "b": "looked",
+    "c": "has looked",
+    "d": "will look",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 180,
+    "question_content": "We couldn't play the match because the frog ............ too thick.",
+    "a": "is",
+    "b": "be",
+    "c": "was",
+    "d": "will be",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 181,
+    "question_content": "We shall come and see you if we ............ a holiday",
+    "a": "have",
+    "b": "will have",
+    "c": "would have",
+    "d": "has had",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 182,
+    "question_content": "I often avoid .................. to parties.",
+    "a": "go",
+    "b": "to go",
+    "c": "going",
+    "d": "c & d are correct",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 183,
+    "question_content": "He enjoys ................ a lot",
+    "a": "smoke",
+    "b": "to smoke",
+    "c": "smokes",
+    "d": "smoking",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 184,
+    "question_content": "Their mother often suggests ................... with some friends.",
+    "a": "go out",
+    "b": "to go out",
+    "c": "going out",
+    "d": "a & c are correct",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 185,
+    "question_content": "I don't feel like ............. for a walk now.",
+    "a": "to go",
+    "b": "go",
+    "c": "going",
+    "d": "a & c are correct",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 186,
+    "question_content": "I'm sorry, I can't remember ................. her last week.",
+    "a": "meet",
+    "b": "to meet",
+    "c": "meeting",
+    "d": "to meeting",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 187,
+    "question_content": "Well, I'm interested in ................... English",
+    "a": "learn",
+    "b": "to learn",
+    "c": "learning",
+    "d": "b & c are correct",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 188,
+    "question_content": "Certainly, It's worth ........................... the thesis.",
+    "a": "try to write",
+    "b": "trying to write",
+    "c": "trying writing",
+    "d": "try writing",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 189,
+    "question_content": "Now, I think she is accustomed .................. eight hours a day.",
+    "a": "work",
+    "b": "to work",
+    "c": "working",
+    "d": "to working",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 190,
+    "question_content": "The fabric is .................... a material which catch fire easily",
+    "a": "made of",
+    "b": "made from",
+    "c": "made in",
+    "d": "made",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 191,
+    "question_content": "There were signs everywhere ............... people to keep out of the grass in the park.",
+    "a": "to tell",
+    "b": "tell",
+    "c": "telling",
+    "d": "to telling",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 192,
+    "question_content": "It is very difficult ................... a twin from the other.",
+    "a": "tell",
+    "b": "to tell",
+    "c": "telling",
+    "d": "to telling",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 193,
+    "question_content": "He is agreeable ……………… to Nam’s proposal",
+    "a": "about",
+    "b": "to",
+    "c": "in",
+    "d": "with",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 194,
+    "question_content": "There are so many signs along that road .................................. down because that road is very slippery.",
+    "a": "warning motorists to slow",
+    "b": "warn motorists to slow",
+    "c": "warn motorists slowing",
+    "d": "to warn motorists slowing",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 195,
+    "question_content": "Each of these sounds ............... me sleepy.",
+    "a": "make",
+    "b": "made",
+    "c": "makes",
+    "d": "has make",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 196,
+    "question_content": "Either Minh or his friends …………… going to the beach today.",
+    "a": "is",
+    "b": "are",
+    "c": "was",
+    "d": "were",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 197,
+    "question_content": "Everyone in the class ................. the novel.",
+    "a": "has read",
+    "b": "have read",
+    "c": "has red",
+    "d": "have red",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 198,
+    "question_content": "He often ………… his dog when he comes home",
+    "a": "whistles",
+    "b": "whistle",
+    "c": "is whistling",
+    "d": "are whistling",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 199,
+    "question_content": "One of the golf clubs ....................... in the corner of the room at this moment.",
+    "a": "stand",
+    "b": "stands",
+    "c": "is standing",
+    "d": "are standing",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 200,
+    "question_content": "One of the rooms .............. an air conditioner",
+    "a": "contain",
+    "b": "contains",
+    "c": "is containing",
+    "d": "are containing",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 201,
+    "question_content": "Everyone of the clerks ................ punch the time clock.",
+    "a": "has",
+    "b": "have",
+    "c": "has to",
+    "d": "have to",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 202,
+    "question_content": "Each of his assistants ................ the telephone.",
+    "a": "answer",
+    "b": "answers",
+    "c": "is answering",
+    "d": "are answering",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 203,
+    "question_content": "Each of the girls ........... the piano.",
+    "a": "play",
+    "b": "plays",
+    "c": "is playing",
+    "d": "are playing",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 204,
+    "question_content": "I wonder why the English .............. on the left hand side of the road",
+    "a": "drive",
+    "b": "drove",
+    "c": "has driven",
+    "d": "had driven",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 205,
+    "question_content": "He .............. the custom was grounded in good sense",
+    "a": "say",
+    "b": "said",
+    "c": "has said",
+    "d": "had said",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 206,
+    "question_content": "A horse ............. always mounted from the left.",
+    "a": "is",
+    "b": "was",
+    "c": "has been",
+    "d": "had been",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 207,
+    "question_content": "There ................... no rule about the movement of traffic before the Pope came to visit Paris.",
+    "a": "is",
+    "b": "are",
+    "c": "was",
+    "d": "were",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 208,
+    "question_content": "Thus a custom ............... born.",
+    "a": "is",
+    "b": "was",
+    "c": "has been",
+    "d": "had been",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 209,
+    "question_content": "There ............. only one place in the whole of England where it ........... legal to drive on the right",
+    "a": "is / is",
+    "b": "was / was",
+    "c": "are / is",
+    "d": "were / was",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 210,
+    "question_content": "The founders of the American nature ..................... the custom after the Revolution.",
+    "a": "reverse",
+    "b": "reversed",
+    "c": "has reversed",
+    "d": "had reversed",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 211,
+    "question_content": "When Bonaparte came along, he ................. it the law of the land.",
+    "a": "makes",
+    "b": "made",
+    "c": "has made",
+    "d": "had made",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 212,
+    "question_content": "The king just .............. here yesterday.",
+    "a": "comes",
+    "b": "came",
+    "c": "has come",
+    "d": "had come",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 213,
+    "question_content": "Many people ............ their jobs because of the firm's collapse.",
+    "a": "lose",
+    "b": "lost",
+    "c": "has lost",
+    "d": "had lost",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 214,
+    "question_content": "I ......................... cleaning the floor, and now it's dirty again.",
+    "a": "just finish",
+    "b": "just finished",
+    "c": "have just finished",
+    "d": "had just finished",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 215,
+    "question_content": "I .................. a ghost in my life.",
+    "a": "never see",
+    "b": "never saw",
+    "c": "have never seen",
+    "d": "had never seen",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 216,
+    "question_content": "They ............. dinner before coming here",
+    "a": "have",
+    "b": "had",
+    "c": "have had",
+    "d": "had had",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 217,
+    "question_content": "He waked up and down until he .................. by the returning warmth",
+    "a": "is reassured",
+    "b": "was reassured",
+    "c": "has been reassured",
+    "d": "have been reassured",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 218,
+    "question_content": "I will wait until you ............... back",
+    "a": "come",
+    "b": "came",
+    "c": "has came",
+    "d": "will come",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 219,
+    "question_content": "We always take out umbrellas with us when it ...............",
+    "a": "rains",
+    "b": "rained",
+    "c": "has rained",
+    "d": "had rained",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 220,
+    "question_content": "I sat near the window whenever I ............... a bus.",
+    "a": "take",
+    "b": "took",
+    "c": "has taken",
+    "d": "had taken",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 221,
+    "question_content": "It was raining hard when I ............. there.",
+    "a": "get",
+    "b": "got",
+    "c": "has got",
+    "d": "had got",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 222,
+    "question_content": "She ................the piano since she was a child.",
+    "a": "plays",
+    "b": "played",
+    "c": "has played",
+    "d": "had played",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 223,
+    "question_content": "The sun ............ in the east.",
+    "a": "rise",
+    "b": "rose",
+    "c": "rises",
+    "d": "has risen",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 224,
+    "question_content": "How long do you want me to heat the oil?\n- Heat it till it ............... to smoke.",
+    "a": "begins",
+    "b": "began",
+    "c": "has begun",
+    "d": "had begun",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 225,
+    "question_content": "How long are you going to stay here?\n- I'm going to stay here till my brother .............. his exams.",
+    "a": "finishes",
+    "b": "finished",
+    "c": "would finish",
+    "d": "will finish",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 226,
+    "question_content": "When will you start the trip?\n- We'll leave as soon as we .............. our tickets.",
+    "a": "get",
+    "b": "got",
+    "c": "will get",
+    "d": "would get",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 227,
+    "question_content": "I'm learning English.\n- Well, when we ............... English fluently, we may find a good job.",
+    "a": "speak",
+    "b": "spoke",
+    "c": "has spoken",
+    "d": "will speak",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 228,
+    "question_content": "By the time you ............. this book, your meal will get cold.\n- Oh, I only have a few pages left.",
+    "a": "read",
+    "b": "will read",
+    "c": "have read",
+    "d": "had read",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 229,
+    "question_content": "Are you taking English courses?\n- Yes, and my teacher says that when I ................... five courses, I shall be able to speak it quite fluently.",
+    "a": "have taken",
+    "b": "took",
+    "c": "has taken",
+    "d": "will take",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 230,
+    "question_content": "Is your father at home?\n- No, he is away on business. If you have a message for him, I ................. it to him as soon as he ............ home.",
+    "a": "give / gets",
+    "b": "give / will get",
+    "c": "will give / get",
+    "d": "will give / gets",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 231,
+    "question_content": "Please tell me how to get to the post office?\n- Go till you ................ to a square with a statue in the middle; then turn left and you .................. it on your right.",
+    "a": "come / fine",
+    "b": "come / will find",
+    "c": "will come / find",
+    "d": "will come / will find",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 232,
+    "question_content": "- What did he say before he left for Paris?\n- He said he would give me a ring as soon as he ............... Paris.",
+    "a": "reaches",
+    "b": "reached",
+    "c": "will reach",
+    "d": "would reach",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 233,
+    "question_content": " - I thought you were going to the concert.\n- I was. But when I got there, the tickets ............... sold out. So I ........... go back home.",
+    "a": "was / had to",
+    "b": "had been / have to",
+    "c": "had been / had to",
+    "d": "were / had to",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 234,
+    "question_content": "- How long have you been working in this firm?\n- I have been working here for five years. When I .............. here for fifteen years, I'll be able to get some pension.",
+    "a": "work",
+    "b": "will be working",
+    "c": "has worked",
+    "d": "has been working",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 235,
+    "question_content": "Tell us what ............... to you yesterday?",
+    "a": "happen",
+    "b": "happened",
+    "c": "had happened",
+    "d": "has happened",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 236,
+    "question_content": "We ............ you a telegram as soon as we ............ in Chicago tomorrow",
+    "a": "will send / arrive",
+    "b": "would send / arrived",
+    "c": "will send / will arrive",
+    "d": "send / arrive",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 237,
+    "question_content": "The druggist .................. for home when we ............ to the store yesterday",
+    "a": "already left / got",
+    "b": "had already left / got",
+    "c": "already left / had got",
+    "d": "had already left / had got",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 238,
+    "question_content": "Mr. Carlson ................ to another man when I .......... him this morning.",
+    "a": "is talking / see",
+    "b": "was talking / saw",
+    "c": "had talked / saw",
+    "d": "has talked / saw",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 240,
+    "question_content": "I .............. Mr. Harris your message when I see him tomorrow.",
+    "a": "give",
+    "b": "gave",
+    "c": "will give",
+    "d": "would give",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 241,
+    "question_content": "When George .............. this afternoon, he ................ his friends",
+    "a": "will come / will bring",
+    "b": "comes / will bring",
+    "c": "comes / brings",
+    "d": "will come / brings",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 242,
+    "question_content": "The Andersons .................. into their new apartment last week",
+    "a": "moves",
+    "b": "move",
+    "c": "moved",
+    "d": "has moved",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 243,
+    "question_content": "As I .............. the street, two cars ............... by me at full speed yesterday",
+    "a": "crossed / raced",
+    "b": "crossed / was racing",
+    "c": "crossed / had raced",
+    "d": "crossed / were racing",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 244,
+    "question_content": "Mr. Brink ................ the Atlantic by the time the news reaches him.",
+    "a": "cross",
+    "b": "are crossing",
+    "c": "will be crossing",
+    "d": "crosses",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 245,
+    "question_content": "If we ............... the news sooner, we would have written to John.",
+    "a": "received",
+    "b": "had received",
+    "c": "receive",
+    "d": "will receive",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 246,
+    "question_content": "I'm sure they .......... Ellen the information if they had it.",
+    "a": "give",
+    "b": "will give",
+    "c": "gave",
+    "d": "would give",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 247,
+    "question_content": "If a policeman ........... an accident, he will take the driver's name",
+    "a": "see",
+    "b": "will see",
+    "c": "would see",
+    "d": "sees",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 248,
+    "question_content": "We are going to buy the furniture if we ............... some money",
+    "a": "borrow",
+    "b": "borrowed",
+    "c": "will borrow",
+    "d": "would borrow",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 249,
+    "question_content": "What ................. tomorrow if you ............... a millionaire?",
+    "a": "are you going to do / are",
+    "b": "were you doing to do / was",
+    "c": "will you do / was",
+    "d": "would you do / were",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 250,
+    "question_content": "If Carl ................... so careless, he wouldn't lose his good job.",
+    "a": "wasn't",
+    "b": "weren't",
+    "c": "hadn't been",
+    "d": "wouldn't be",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 251,
+    "question_content": "If you ...................... the instruction, read them again.",
+    "a": "don't understand",
+    "b": "didn't understand",
+    "c": "hadn't understood",
+    "d": "wouldn't understand",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 252,
+    "question_content": "I .................. it unless I had seen it with my own eyes.",
+    "a": "will not believe",
+    "b": "would not believe",
+    "c": "would not have believed",
+    "d": "would not have believe",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 253,
+    "question_content": "Fred ................ it unless he had your permission",
+    "a": "will not do",
+    "b": "would not do",
+    "c": "would do",
+    "d": "wouldn't have done",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 254,
+    "question_content": "I .................. that job even if the manager offers it to me.",
+    "a": "don't accept",
+    "b": "will not accept",
+    "c": "would not accept",
+    "d": "didn't accept",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 255,
+    "question_content": "I was reluctant ................. a decision without ................ all the facts.",
+    "a": "to make / to know",
+    "b": "to make / knowing",
+    "c": "making / to know",
+    "d": "making / knowing",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 256,
+    "question_content": "The man was accused of .................... private property.",
+    "a": "to steal",
+    "b": "stealing",
+    "c": "stolen",
+    "d": "b & c are correct",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 257,
+    "question_content": "After we .................. all our exercises, we went to the cinema.",
+    "a": "completed",
+    "b": "has completed",
+    "c": "has been completing",
+    "d": "had completed",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 258,
+    "question_content": "None of us ................. such a delicious meal like this.",
+    "a": "taste",
+    "b": "tastes",
+    "c": "tasted",
+    "d": "has tasted",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 259,
+    "question_content": "The country is very .................., so travelling on the road is difficult",
+    "a": "mountain",
+    "b": "mountain-high",
+    "c": "mountain-side",
+    "d": "mountainous",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 260,
+    "question_content": "The teacher streaked the need for regular .....................",
+    "a": "attend",
+    "b": "attendant",
+    "c": "attendance",
+    "d": "attender",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 261,
+    "question_content": "John's ..................... improved at his new school",
+    "a": "behave",
+    "b": "behavioral",
+    "c": "behavior",
+    "d": "behaviorism",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 262,
+    "question_content": "im always does what he says; he's a very .................... person.",
+    "a": "rely",
+    "b": "reliably",
+    "c": "reliance",
+    "d": "reliable",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 263,
+    "question_content": "The company is very efficient and gives a ................... service.",
+    "a": "speed",
+    "b": "speeding",
+    "c": "speedy",
+    "d": "speediness",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 264,
+    "question_content": "Dogs are very ...................... pets.",
+    "a": "faith",
+    "b": "faithful",
+    "c": "faithfully",
+    "d": "faithfulness",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 265,
+    "question_content": "Since ................ has been so poor, the class has to be closed.",
+    "a": "attend",
+    "b": "attendant",
+    "c": "attendance",
+    "d": "attendee",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 266,
+    "question_content": "Do you have a ................ costume in your country?",
+    "a": "national",
+    "b": "nation",
+    "c": "native",
+    "d": "nationality",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 267,
+    "question_content": "The weather will be better with ................... showers.",
+    "a": "occasion",
+    "b": "occasional",
+    "c": "occasionally",
+    "d": "occasionality",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 268,
+    "question_content": "I had no map. That's why I got lost. If I ................ a map, I ............ all right.",
+    "a": "have / will be",
+    "b": "had / would be",
+    "c": "had had / would have been",
+    "d": "a & b are correct",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 269,
+    "question_content": "Most people ................. the Union meeting if they had had longer notice of it",
+    "a": "would have attended",
+    "b": "would attend",
+    "c": "will attend",
+    "d": "shall attend",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 270,
+    "question_content": "The boy with his dog ............... here last night.",
+    "a": "is",
+    "b": "are",
+    "c": "was",
+    "d": "were",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 271,
+    "question_content": "Each of the boy ................ won a prize.",
+    "a": "have",
+    "b": "has",
+    "c": "was",
+    "d": "were",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 272,
+    "question_content": "He's got a lot of books ...............",
+    "a": "read",
+    "b": "to read",
+    "c": "reading",
+    "d": "for read",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 273,
+    "question_content": "I heard the door ..............",
+    "a": "open",
+    "b": "to open",
+    "c": "opening",
+    "d": "a & c are correct",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 274,
+    "question_content": "In your office, who is responsible for ............... the mail?",
+    "a": "take care of",
+    "b": "caring of",
+    "c": "taking of",
+    "d": "taking care of",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 275,
+    "question_content": "There is ................... to believe that he is not prepared for his future work.",
+    "a": "reason",
+    "b": "reasonable",
+    "c": "reasonably",
+    "d": "a reason",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 276,
+    "question_content": "This company offers a lot of ................. jobs.",
+    "a": "attractive",
+    "b": "attracted",
+    "c": "attraction",
+    "d": "attract",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 277,
+    "question_content": "The farmers need ................ their crops.",
+    "a": "rotate",
+    "b": "to rotate",
+    "c": "rotating",
+    "d": "a & b are correct",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 278,
+    "question_content": "A new road is being ................ in my village.",
+    "a": "build",
+    "b": "built",
+    "c": "to build",
+    "d": "building",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 279,
+    "question_content": "When the wastes are poured into the atmosphere, the air ................\nunpleasant to breathe.",
+    "a": "become",
+    "b": "becomes",
+    "c": "became",
+    "d": "has become",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 280,
+    "question_content": "Now farmers are accustomed ................. this fertilizer to their fields.",
+    "a": "apply",
+    "b": "applying",
+    "c": "to apply",
+    "d": "to applying",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 281,
+    "question_content": "Well, I think that the prices here are .......................",
+    "a": "reason",
+    "b": "reasonable",
+    "c": "reasonably",
+    "d": "a reason",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 282,
+    "question_content": "Do you feel .................. to this kind of job?",
+    "a": "attractive",
+    "b": "attracted",
+    "c": "attraction",
+    "d": "attract",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 283,
+    "question_content": "American women ...................... independent",
+    "a": "are used to be",
+    "b": "are used to being",
+    "c": "is used to being",
+    "d": "is used to be",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 284,
+    "question_content": "Which would you ................., tea or coffee?",
+    "a": "preference",
+    "b": "preferential",
+    "c": "prefer",
+    "d": "preferable",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 285,
+    "question_content": "They are ................. doing the same thing every day",
+    "a": "bored with",
+    "b": "fond of",
+    "c": "afraid of",
+    "d": "like",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 286,
+    "question_content": "Ask the shop ..................... where the washing powder is.",
+    "a": "nurse",
+    "b": "assistant",
+    "c": "barber",
+    "d": "conductor",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 287,
+    "question_content": "That ................... sells very good meat.",
+    "a": "baker",
+    "b": "dentist",
+    "c": "architect",
+    "d": "butcher",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 288,
+    "question_content": "If my tooth doesn't stop hurting. I'll go and see my .....................",
+    "a": "actor",
+    "b": "dentist",
+    "c": "writer",
+    "d": "jockey",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 289,
+    "question_content": "Not many buses have a ................ You usually pay the driver.",
+    "a": "manager",
+    "b": "farmer",
+    "c": "conductor",
+    "d": "porter",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 290,
+    "question_content": "Look! The ............... is feeding the lions.",
+    "a": "keeper",
+    "b": "pianist",
+    "c": "postman",
+    "d": "engineer",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 291,
+    "question_content": "She is an .................... girl.",
+    "a": "attractive",
+    "b": "attracted",
+    "c": "attraction",
+    "d": "attract",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 292,
+    "question_content": "After your eye test, the .................. will tell you if you need glasses",
+    "a": "dentist",
+    "b": "doctor",
+    "c": "surgeon",
+    "d": "optician",
+    "answer": "d"
+  },
+  {
+    "level": "b",
+    "stt": 293,
+    "question_content": "The .............. wanted to write an article about me in the paper",
+    "a": "agent",
+    "b": "musician",
+    "c": "journalist",
+    "d": "announcer",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 294,
+    "question_content": "I hope the ................. can repair our car quickly",
+    "a": "mechanic",
+    "b": "reporter",
+    "c": "surgeon",
+    "d": "engineer",
+    "answer": "a"
+  },
+  {
+    "level": "b",
+    "stt": 295,
+    "question_content": "He got drunk after drinking some …………….. drink",
+    "a": "rich",
+    "b": "strong",
+    "c": "clever",
+    "d": "powerful",
+    "answer": "b"
+  },
+  {
+    "level": "b",
+    "stt": 296,
+    "question_content": "The ................ of the moon for the earth causes the tides.",
+    "a": "attractive",
+    "b": "attracted",
+    "c": "attraction",
+    "d": "attract",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 297,
+    "question_content": "He was ..................... right when he said that the man was guilty.",
+    "a": "reason",
+    "b": "reasonable",
+    "c": "reasonably",
+    "d": "a reason",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 298,
+    "question_content": "Another word for \"damage\" is ...........................",
+    "a": "wound",
+    "b": "injury",
+    "c": "destruction",
+    "d": "destroy",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 299,
+    "question_content": "To employ",
+    "a": "borrow",
+    "b": "buy",
+    "c": "hire",
+    "d": "work",
+    "answer": "c"
+  },
+  {
+    "level": "b",
+    "stt": 300,
+    "question_content": "Another word for \"entire\" is ........................",
+    "a": "whole",
+    "b": "part",
+    "c": "strong",
+    "d": "completed",
+    "answer": "a"
+  }
+]
