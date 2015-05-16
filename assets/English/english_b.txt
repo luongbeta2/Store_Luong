@@ -727,7 +727,7 @@
     "b": "she was 19 months old",
     "c": "when she was 19 months old",
     "d": "when 19 months old she was",
-    "answer": ""
+    "answer": "c"
   },
   {
     "level": "b",
