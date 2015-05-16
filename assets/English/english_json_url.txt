@@ -1,0 +1,20 @@
+{
+  "english_test_version": "1",
+  "data": [
+    {
+      "type": "english_a",
+      "version": "1",
+      "url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/English/english_a.txt"
+    },
+    {
+      "type": "english_b",
+      "version": "1",
+      "url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/English/english_b.txt"
+    },
+    {
+      "type": "english_c",
+      "version": "1",
+      "url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/English/english_c.txt"
+    }
+  ]
+}
