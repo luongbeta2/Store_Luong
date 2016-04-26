@@ -4,11 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.DefaultHttpClient;
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 import android.app.Activity;
 import android.net.ConnectivityManager;
@@ -23,6 +20,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+	private final static String TAG = "Store";
 	EditText etResponse;
 	TextView tvIsConnected;
 
@@ -46,7 +44,7 @@ public class MainActivity extends Activity {
 		}
 
 		// call AsynTask to perform network operation on separate thread
-		String url = "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/store_dictionary";
+		String url = "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/extend_app/app_english_test.txt";
 		new HttpAsyncTask().execute(url);
 
 	}
@@ -58,25 +56,26 @@ public class MainActivity extends Activity {
 		return true;
 	}
 
-	public static String GET(String url) {
+	public static String GET(String urlStr) {
 		InputStream inputStream = null;
 		String result = "";
 		try {
 
-			// create HttpClient
-			HttpClient httpclient = new DefaultHttpClient();
+			URL url = new URL(urlStr);
+			HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+			conn.setRequestMethod("GET");
 
-			// make GET request to the given URL
-			HttpResponse httpResponse = httpclient.execute(new HttpGet(url));
+			// read the response
+			InputStream is = conn.getInputStream();
+			BufferedReader streamReader = new BufferedReader(new InputStreamReader(is, "UTF-8"));
 
-			// receive response as inputStream
-			inputStream = httpResponse.getEntity().getContent();
-
-			// convert inputstream to string
-			if (inputStream != null)
-				result = convertInputStreamToString(inputStream);
-			else
-				result = "Did not work!";
+			StringBuilder stringBuilder = new StringBuilder();
+			String inputStr;
+			while ((inputStr = streamReader.readLine()) != null) {
+				stringBuilder.append(inputStr);
+			}
+			
+			Log.e(TAG, stringBuilder.toString());
 
 		} catch (Exception e) {
 			Log.d("InputStream", e.getLocalizedMessage());
