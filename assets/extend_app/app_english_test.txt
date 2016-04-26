@@ -7,12 +7,13 @@
     "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_tennis_live.png"
   },
   {
-    "stt": 2,
-    "name": "Wiki dictionary",
+    "stt": 5,
+    "name": "Compass pro",
     "description": "",
-    "package_name": "om.dictionary.aard.pro",
-    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_wiki.png"
-  },
+    "package_name": "com.map.compass.app",
+    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_compass_map.png"
+  }
+  ,
   {
     "stt": 3,
     "name": "Funny story",
@@ -20,18 +21,11 @@
     "package_name": "com.gala.story",
     "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_story.png"
   },
-  {
-    "stt": 4,
-    "name": "Funny videos",
+   {
+    "stt": 2,
+    "name": "Wiki dictionary",
     "description": "",
-    "package_name": "com.funny.video.app",
-    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_funny_videos.png"
-  },
-  {
-    "stt": 5,
-    "name": "Compass pro",
-    "description": "",
-    "package_name": "com.map.compass.app",
-    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_compass_map.png"
+    "package_name": "om.dictionary.aard.pro",
+    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_wiki.png"
   }
 ]
