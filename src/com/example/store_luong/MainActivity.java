@@ -7,6 +7,9 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import android.app.Activity;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
@@ -57,7 +60,6 @@ public class MainActivity extends Activity {
 	}
 
 	public static String GET(String urlStr) {
-		InputStream inputStream = null;
 		String result = "";
 		try {
 
@@ -76,6 +78,27 @@ public class MainActivity extends Activity {
 			}
 			
 			Log.e(TAG, stringBuilder.toString());
+			
+			// Create a JSON object that we can use from the String
+			JSONArray jsonArray = new JSONArray(stringBuilder.toString());
+			Log.e(TAG, "jsonArray size: " + jsonArray.length());
+			for (int i = 0; i < jsonArray.length(); i++) {
+				JSONObject jsonObject = jsonArray.getJSONObject(i);
+				
+				int stt = jsonObject.getInt("stt");
+				String name = jsonObject.getString("name");
+				String description = jsonObject.getString("description");
+				String package_name = jsonObject.getString("package_name");
+				String image_url = jsonObject.getString("image_url");
+				
+				
+				Log.e(TAG, "stt: " + stt);
+				Log.e(TAG, "name: " + name);
+				Log.e(TAG, "description: " + description);
+				Log.e(TAG, "package_name: " + package_name);
+				Log.e(TAG, "image_url: " + image_url);
+				Log.e(TAG, "------\n\n");
+			}
 
 		} catch (Exception e) {
 			Log.d("InputStream", e.getLocalizedMessage());
