@@ -16,10 +16,10 @@
   ,
   {
     "stt": 3,
-    "name": "Funny story",
+    "name": "My Kids",
     "description": "",
-    "package_name": "com.gala.story",
-    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_story.png"
+    "package_name": "com.english.song.app",
+    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_my_kids.png"
   },
    {
     "stt": 2,
