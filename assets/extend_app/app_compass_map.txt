@@ -7,14 +7,6 @@
     "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_tennis_live.png"
   },
   {
-    "stt": 5,
-    "name": "Compass pro",
-    "description": "",
-    "package_name": "com.map.compass.app",
-    "image_url": "https://raw.githubusercontent.com/luongbeta2/Store_Luong/master/assets/images/ic_compass_map.png"
-  }
-  ,
-  {
     "stt": 3,
     "name": "My Kids",
     "description": "",
