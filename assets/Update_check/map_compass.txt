@@ -1,0 +1,6 @@
+{
+	"version_code": 50,
+ 	"version_name":"3.07",
+ 	"requested":true,
+ 	"package":"com.map.compass.app"
+}
