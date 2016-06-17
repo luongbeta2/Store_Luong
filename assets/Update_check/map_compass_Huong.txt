@@ -1,0 +1,6 @@
+{
+	"version_code": 22,
+ 	"version_name":"1.9",
+ 	"requested":true,
+ 	"package":"com.compass.app.pro"
+}
