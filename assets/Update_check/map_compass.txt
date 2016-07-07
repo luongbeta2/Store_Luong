@@ -2,5 +2,6 @@
 	"version_code": 50,
  	"version_name":"3.14",
  	"requested":true,
- 	"package":"com.map.compass.app"
+ 	"package":"com.map.compass.app",
+ 	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
