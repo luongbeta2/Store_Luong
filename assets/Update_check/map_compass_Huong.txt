@@ -3,5 +3,6 @@
  	"version_name":"1.9",
  	"requested":true,
  	"package":"com.compass.app.pro",
+ 	"package_add_1":"com.map.measure",
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
