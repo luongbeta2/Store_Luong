@@ -4,6 +4,6 @@
  	"requested":true,
  	"package":"com.map.compass.app",
  	"package_add_1":"com.map.measure",
- 	"package_add_1_enable":1,
+ 	"package_add_1_enable":0,
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
