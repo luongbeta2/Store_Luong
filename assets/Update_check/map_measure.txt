@@ -1,0 +1,9 @@
+{
+	"version_code": 5,
+ 	"version_name":"1.05",
+ 	"requested":true,
+ 	"package":"com.map.measure",
+ 	"package_add_1":"com.map.measure",
+ 	"package_add_1_enable":0,
+ 	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
+}
