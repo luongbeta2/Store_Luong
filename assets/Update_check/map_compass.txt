@@ -1,6 +1,6 @@
 {
-	"version_code": 76,
- 	"version_name":"3.33",
+	"version_code": 77,
+ 	"version_name":"3.34",
  	"requested":true,
  	"package":"com.map.compass.app",
  	"package_add_1":"com.map.measure",
