@@ -1,6 +1,6 @@
 {
-	"version_code": 5,
- 	"version_name":"1.05",
+	"version_code": 28,
+ 	"version_name":"1.28",
  	"requested":true,
  	"package":"com.map.measure",
  	"package_add_1":"com.map.measure",
