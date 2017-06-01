@@ -3,7 +3,7 @@
     "stt": 1,
     "name": "Compass Coordinate",
     "description": "",
-    "countAppStartingAds": 0,
+    "countAppStartingAds": 6,
     "bundle_id": "com.luongbeta.CompassMap",
     "share_id": "7af49943cd934e708dc2ee7544410c30",
     "image_url": ""
