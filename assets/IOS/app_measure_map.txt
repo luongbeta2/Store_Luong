@@ -1,0 +1,11 @@
+[
+  {
+    "stt": 1,
+    "name": "Measure Map",
+    "description": "",
+    "countAppStartingAds": 0,
+    "bundle_id": "com.luongbeta.MeasureMap",
+    "share_id": "a2e77d785b3745f8a8c787cba5c8f9a7",
+    "image_url": ""
+  }
+]
