@@ -3,7 +3,7 @@
  	"version_name":"2.98",
  	"requested":true,
  	"package":"com.compass.app.pro",
- 	"package_add_1":"com.map.measure",
+ 	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
