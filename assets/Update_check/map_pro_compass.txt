@@ -1,5 +1,5 @@
 {
-	"version_code": 43,
+	"version_code": 42,
  	"version_name":"2.22",
  	"requested":true,
  	"package":"com.map_pro.compass.app",
