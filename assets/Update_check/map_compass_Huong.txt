@@ -1,6 +1,6 @@
 {
-	"version_code": 49,
- 	"version_name":"2.98",
+	"version_code": 56,
+ 	"version_name":"3.04",
  	"requested":true,
  	"package":"com.compass.app.pro",
  	"package_add_1":"com.map.distance",
