@@ -6,7 +6,7 @@
     "countAppStartingAds": 0,
     "bundle_id": "com.luongbeta.CompassMap",
     "share_id": "7af49943cd934e708dc2ee7544410c30",
-    "hellog": "AIzaSyBFgDyjg8qHBFcYvL7exxWKjpwmpNzBtH0",
+    "hellog": "",
     "image_url": ""
   }
 ]
