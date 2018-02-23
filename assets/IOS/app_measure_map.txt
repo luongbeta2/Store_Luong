@@ -6,6 +6,7 @@
     "countAppStartingAds": 0,
     "bundle_id": "com.luongbeta.MeasureMap",
     "share_id": "a2e77d785b3745f8a8c787cba5c8f9a7",
+    "hellog": "AIzaSyDJ3O5UaqGKR7OBtstXT8eFlWT73vVBK_s",
     "image_url": ""
   }
 ]
