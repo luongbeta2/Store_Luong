@@ -1,0 +1,10 @@
+{
+"version_code": 4,
+"version_name":"1.04",
+"requested":true,
+"package":"com.map.coordinate",
+"package_add_1":"com.map.measure",
+"package_add_1_enable":0,
+"hellog": "AIzaSyDJ3O5UaqGKR7OBtstXT8eFlWT73vVBK_s",
+"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
+}
