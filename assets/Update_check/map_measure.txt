@@ -5,7 +5,7 @@
  	"package":"com.map.measure",
  	"package_add_1":"com.map.measure",
  	"package_add_1_enable":0,
-	"hellog": "AIzaSyDJ3O5UaqGKR7OBtstXT8eFlWT73vVBK_s",
-	"hellog_e": "AIzaSyA9Cn065r4WmLg3qJUXlgD02kG9T78282U",
+	"hellog": "AIzaSyCMKQnTQrABH0C5xhtkpCUBGBZHqCpacIU",
+	"hellog_e": "AIzaSyCMKQnTQrABH0C5xhtkpCUBGBZHqCpacIU",
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
