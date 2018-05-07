@@ -8,6 +8,7 @@
     "share_id": "7af49943cd934e708dc2ee7544410c30",
     "hellog_nokey_is": "no_key",
     "hellog": "AIzaSyCK3yHyAkXu-EgjCUtKhUMBA6h0ZWMzQ3g",
+    "hellog_log2": "AIzaSyCJV_3sEkGgamXoYlTVnvZgP88xFS8YeMY",
     "image_url": ""
   }
 ]
