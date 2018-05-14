@@ -6,6 +6,6 @@
  	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
 	"hellog_log_bug": "hell0AIzaSyD5NB4e4jSETD78WVVeNse0zxcGFcYGsG0EnD_",
-	"hellog_log_bug_2": "hell0AIzaSyBEWOFRdBMwbCqxWoiDC5e0bAveNwVtzIoEnD_",
+	"hellog_log_bug_2": "hell0AIzaSyBB5mOXPJgHSPu3sNanA--yQe6v6Ro905kEnD_",
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
