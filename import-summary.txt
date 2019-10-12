@@ -1,0 +1,121 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea/
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* build.gradle
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+* store_luong/
+* store_luong/build.gradle
+* store_luong/libs/
+* store_luong/libs/android-support-v4.jar
+* store_luong/src/
+* store_luong/src/main/
+* store_luong/src/main/AndroidManifest.xml
+* store_luong/src/main/assets/
+* store_luong/src/main/assets/.DS_Store
+* store_luong/src/main/assets/English/
+* store_luong/src/main/assets/English/english_a.txt
+* store_luong/src/main/assets/English/english_b.txt
+* store_luong/src/main/assets/English/english_c.txt
+* store_luong/src/main/assets/English/english_json_url.txt
+* store_luong/src/main/assets/IOS/
+* store_luong/src/main/assets/IOS/app_compass_coordinate.txt
+* store_luong/src/main/assets/IOS/app_measure_map.txt
+* store_luong/src/main/assets/Update_check/
+* store_luong/src/main/assets/Update_check/map_compass.txt
+* store_luong/src/main/assets/Update_check/map_compass_Huong.txt
+* store_luong/src/main/assets/Update_check/map_coordinate.txt
+* store_luong/src/main/assets/Update_check/map_measure.txt
+* store_luong/src/main/assets/Update_check/map_pro_compass.txt
+* store_luong/src/main/assets/Update_check/measure_distance_map.txt
+* store_luong/src/main/assets/extend_app/
+* store_luong/src/main/assets/extend_app/app_compass_map.txt
+* store_luong/src/main/assets/extend_app/app_english_test.txt
+* store_luong/src/main/assets/extend_app/extend_total.txt
+* store_luong/src/main/assets/images/
+* store_luong/src/main/assets/images/ic_compass_map.png
+* store_luong/src/main/assets/images/ic_funny_videos.png
+* store_luong/src/main/assets/images/ic_my_kids.png
+* store_luong/src/main/assets/images/ic_sms_cute.png
+* store_luong/src/main/assets/images/ic_story.png
+* store_luong/src/main/assets/images/ic_tennis_live.png
+* store_luong/src/main/assets/images/ic_wiki.png
+* store_luong/src/main/assets/store_dictionary.txt
+* store_luong/src/main/java/
+* store_luong/src/main/java/com/
+* store_luong/src/main/java/com/example/
+* store_luong/src/main/java/com/example/store_luong/
+* store_luong/src/main/java/com/example/store_luong/MainActivity.java
+* store_luong/src/main/res/
+* store_luong/src/main/res/drawable-hdpi/
+* store_luong/src/main/res/drawable-hdpi/ic_launcher.png
+* store_luong/src/main/res/drawable-mdpi/
+* store_luong/src/main/res/drawable-mdpi/ic_launcher.png
+* store_luong/src/main/res/drawable-xhdpi/
+* store_luong/src/main/res/drawable-xhdpi/ic_launcher.png
+* store_luong/src/main/res/drawable-xxhdpi/
+* store_luong/src/main/res/drawable-xxhdpi/ic_launcher.png
+* store_luong/src/main/res/layout/
+* store_luong/src/main/res/layout/activity_main.xml
+* store_luong/src/main/res/menu/
+* store_luong/src/main/res/menu/main.xml
+* store_luong/src/main/res/values-v11/
+* store_luong/src/main/res/values-v11/styles.xml
+* store_luong/src/main/res/values-v14/
+* store_luong/src/main/res/values-v14/styles.xml
+* store_luong/src/main/res/values-w820dp/
+* store_luong/src/main/res/values-w820dp/dimens.xml
+* store_luong/src/main/res/values/
+* store_luong/src/main/res/values/dimens.xml
+* store_luong/src/main/res/values/strings.xml
+* store_luong/src/main/res/values/styles.xml
+* store_luong/src/main/resources/
+* store_luong/src/main/resources/.DS_Store
+* store_luong/src/main/resources/com/
+* store_luong/src/main/resources/com/.DS_Store
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => store_luong/src/main/AndroidManifest.xml
+* assets/ => store_luong/src/main/assets/
+* libs/android-support-v4.jar => store_luong/libs/android-support-v4.jar
+* res/ => store_luong/src/main/res/
+* src/ => store_luong/src/main/java/
+* src/.DS_Store => store_luong/src/main/resources/.DS_Store
+* src/com/.DS_Store => store_luong/src/main/resources/com/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
