@@ -4,7 +4,7 @@
 "requested":true,
 "direction_hidden":true,
 "package":"com.map.coordinate",
-"package_add_1":"com.map.measure",
+"package_add_1":"com.map.measure.pro",
 "package_add_1_enable":0,
 "hellog": "",
 "hellog_log_bug": "hell0AIzaSyD5NB4e4jSETD78WVVeNse0zxcGFcYGsG0EnD_",
