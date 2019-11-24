@@ -1,0 +1,9 @@
+{
+	"version_code": 56,
+ 	"version_name":"3.04",
+ 	"requested":true,
+ 	"direction_hidden":true,
+ 	"package":"com.compass.pro",
+ 	"package_add_1":"com.map.measure.pro",
+ 	"package_add_1_enable":0,
+}
