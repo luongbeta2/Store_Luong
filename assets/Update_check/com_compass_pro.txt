@@ -1,6 +1,6 @@
 {
 	"version_code": 56,
- 	"version_name":"3.04",
+ 	"version_name":"3.05",
  	"requested":true,
  	"direction_hidden":true,
  	"package":"com.compass.pro",
