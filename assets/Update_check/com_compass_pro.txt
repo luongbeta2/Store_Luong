@@ -5,5 +5,5 @@
  	"direction_hidden":true,
  	"package":"com.compass.pro",
  	"package_add_1":"com.map.measure.pro",
- 	"package_add_1_enable":0,
+ 	"package_add_1_enable":0
 }
