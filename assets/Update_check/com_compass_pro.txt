@@ -6,5 +6,8 @@
  	"package":"com.compass.pro",
  	"package_add_1":"com.map.measure.pro",
  	"package_add_1_enable":0,
-	"start_ad":3
+	"start_ad":0,
+	"app_removed":false,
+	"app_package_instead":"com.compass2.pro"
+
 }
