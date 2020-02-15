@@ -7,7 +7,6 @@
 "package_add_1":"com.map.measure.pro",
 "package_add_1_enable":0,
 "hellog": "",
-"hellog_log_bug": "hell0AIzaSyD5NB4e4jSETD78WVVeNse0zxcGFcYGsG0EnD_",
-"hellog_log_bug_2": "hell0AIzaSyBEWOFRdBMwbCqxWoiDC5e0bAveNwVtzIoEnD_",
-"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
+"app_removed":false,
+"app_package_instead":"com.map.measure2.app"
 }
