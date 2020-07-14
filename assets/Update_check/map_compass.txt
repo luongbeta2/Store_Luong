@@ -4,9 +4,9 @@
  	"requested":true,
  	"direction_hidden":true,
  	"package":"com.map.compass.app",
- 	"package_add_1":"com.map.measure",
- 	"package_add_1_enable":0,
-	"hellog_log_bug": "hell0AIzaSyD5NB4e4jSETD78WVVeNse0zxcGFcYGsG0EnD_",
-	"hellog_log_bug_2": "hell0AIzaSyBEWOFRdBMwbCqxWoiDC5e0bAveNwVtzIoEnD_",
- 	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
+ 	"package_add_1":"com.map.measure.pro",
+	"package_add_1_enable":0,
+	"hellog": "",
+	"app_removed":false,
+	"app_package_instead":"com.map.measure2.app"
 }
