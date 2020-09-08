@@ -3,7 +3,7 @@
  	"version_name":"1.21",
  	"requested":true,
  	"package":"com.map.measure.pro",
- 	"package_add_1":"com.map.measure.pro",
+ 	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
 	"start_ad":0,
 	"app_removed":false,

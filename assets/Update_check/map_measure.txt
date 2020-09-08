@@ -3,7 +3,7 @@
  	"version_name":"1.28",
  	"requested":true,
  	"package":"com.map.measure.pro",
- 	"package_add_1":"com.map.measure.pro",
+ 	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
 	"hellog": "AIzaSyCMKQnTQrABH0C5_StbRt_AafdD_xhtkpCUBGBZHqCpacIU_StbRt_A",
 	"hellog_e": "AIzaSyCMK_EtbHERt_AQnTQrABH0C5xhtkpCUBGBZHqCpacIU_Etb_T7Rt_AafdD",
