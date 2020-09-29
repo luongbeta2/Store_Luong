@@ -4,7 +4,7 @@
  	"requested":true,
  	"direction_hidden":true,
  	"package":"com.map.compass.app",
- 	"package_add_1":"com.map.distance",
+ 	"package_add_1":"com.map.measure2",
 	"package_add_1_enable":0,
 	"hellog": "",
 	"app_removed":false,

@@ -4,10 +4,10 @@
 "requested":true,
 "direction_hidden":true,
 "package":"com.map.coordinate",
-"package_add_1":"com.map.distance",
+"package_add_1":"com.map.measure2",
 "package_add_1_enable":0,
 "hellog": "",
 "app_removed":false,
-"app_package_instead":"com.map.measure2.app",
+"app_package_instead":"com.map.measure2",
 "update_number":1
 }
