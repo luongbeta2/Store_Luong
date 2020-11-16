@@ -6,7 +6,7 @@
  	"package_add_1":"com.map.coordinate",
  	"package_add_1_enable":0,
 	"start_ad":0,
-	"app_removed":false,
-	"app_package_instead":"com.map.coordinate",
+	"app_removed":true,
+	"app_package_instead":"com.map.measure2",
 	"update_number":1
 }
