@@ -4,7 +4,7 @@
  	"requested":true,
  	"direction_hidden":true,
  	"package":"com.map_pro.compass.app",
- 	"package_add_1":"ccom.map.measure2",
+ 	"package_add_1":"com.map.measure2",
  	"package_add_1_enable":0,
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
