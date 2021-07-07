@@ -4,6 +4,7 @@
  	"requested":true,
  	"direction_hidden":true,
  	"package":"com.compass.pro",
+	"number_start_app_direct_show_ads":3,
  	"package_add_1":"com.map.measure2",
  	"package_add_1_enable":0,
 	"start_ad":0,

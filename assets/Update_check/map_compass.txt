@@ -6,6 +6,7 @@
  	"package":"com.map.compass.app",
  	"package_add_1":"com.map.measure2",
 	"package_add_1_enable":0,
+	"number_start_app_direct_show_ads":3,
 	"hellog": "",
 	"app_removed":false,
 	"app_package_instead":"com.map.measure2.app",

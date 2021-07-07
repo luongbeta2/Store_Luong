@@ -7,6 +7,7 @@
 "package_add_1":"com.map.measure2",
 "package_add_1_enable":0,
 "hellog": "",
+"number_start_app_direct_show_ads":4,
 "app_removed":false,
 "app_package_instead":"com.map.measure2",
 "update_number":1

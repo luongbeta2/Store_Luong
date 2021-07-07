@@ -6,6 +6,7 @@
  	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
 	"start_ad":0,
+	"number_start_app_direct_show_ads":3,
 	"app_removed":true,
 	"app_package_instead":"com.map.distance"
 }

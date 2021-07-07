@@ -6,6 +6,7 @@
     "version_name":"1.34",
     "description": "",
     "countAppStartingAds": 0,
+    "number_start_app_direct_show_ads":5,
     "bundle_id": "com.luongbeta.MeasureMap",
     "app_id":"1247360674",
     "app_id_extend":"1239199560",

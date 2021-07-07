@@ -5,7 +5,6 @@
  	"package":"com.map.measure.pro",
  	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
-	"hellog": "AIzaSyCMKQnTQrABH0C5_StbRt_AafdD_xhtkpCUBGBZHqCpacIU_StbRt_A",
-	"hellog_e": "AIzaSyCMK_EtbHERt_AQnTQrABH0C5xhtkpCUBGBZHqCpacIU_Etb_T7Rt_AafdD",
+	"number_start_app_direct_show_ads":3,
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
