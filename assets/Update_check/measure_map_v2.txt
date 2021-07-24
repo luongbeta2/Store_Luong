@@ -9,5 +9,6 @@
 	"number_start_app_direct_show_ads":4,
 	"app_removed":false,
 	"app_package_instead":"com.map.coordinate",
-	"update_number":1
+	"update_number":1,
+	"demo":"https://www.youtube.com/watch?v=gWDznBQ7mUE"
 }
