@@ -4,7 +4,7 @@
     "name": "Compass Coordinate",
     "description": "",
     "countAppStartingAds": 0,
-    "number_start_app_direct_show_ads":5,
+    "number_start_app_direct_show_ads":2,
     "bundle_id": "com.luongbeta.CompassMap",
     "share_id": "7af49943cd934e708dc2ee7544410c30",
     "hellog_nokey_is": "no_key",

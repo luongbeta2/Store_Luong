@@ -5,6 +5,6 @@
  	"package":"com.map.measure.pro",
  	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
-	"number_start_app_direct_show_ads":3,
+	"number_start_app_direct_show_ads":2,
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }

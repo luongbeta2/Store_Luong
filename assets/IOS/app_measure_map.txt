@@ -7,7 +7,7 @@
     "description": "",
     "countAppStartingAds": 0,
     "show_ad_interstitial_when_start_app_in_usa":true,
-    "number_start_app_direct_show_ads":5,
+    "number_start_app_direct_show_ads":2,
     "bundle_id": "com.luongbeta.MeasureMap",
     "app_id":"1247360674",
     "app_id_extend":"1239199560",
