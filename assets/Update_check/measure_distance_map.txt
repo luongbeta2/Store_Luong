@@ -8,6 +8,8 @@
 	"start_ad":0,
 	"number_start_app_direct_show_ads":2,
 	"app_removed":false,
+	"search_address_provider": "osm",
+	"is_mapbox_used":true,
 	"app_package_instead":"com.map.measure2",
 	"update_number":1
 }

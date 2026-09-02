@@ -9,6 +9,8 @@
  	"package_add_1_enable":0,
 	"start_ad":0,
 	"app_removed":false,
+	"search_address_provider": "osm",
+	"is_mapbox_used":true,
 	"app_package_instead":"com.compass2.pro",
 	"update_number":1
 }

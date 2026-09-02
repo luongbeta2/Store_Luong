@@ -9,6 +9,8 @@
 	"number_start_app_direct_show_ads":2,
 	"hellog": "",
 	"app_removed":false,
+	"search_address_provider": "osm",
+	"is_mapbox_used":true,
 	"app_package_instead":"com.map.measure2.app",
 	"update_number":1
 }

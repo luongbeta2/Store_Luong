@@ -11,5 +11,7 @@
 	"app_removed":false,
 	"app_package_instead":"com.map.coordinate",
 	"update_number":1,
+	"is_mapbox_used":true,
+	"search_address_provider": "osm",
 	"demo":"https://www.youtube.com/watch?v=gWDznBQ7mUE"
 }

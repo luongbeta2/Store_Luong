@@ -14,6 +14,8 @@
     "app_id_instead":"1239199560",
     "app_removed":false,
     "share_id": "a2e77d785b3745f8a8c787cba5c8f9a7",
+    "search_address_provider": "osm",
+    "is_mapbox_used":true,
     "hellog_nokey_is": "no_key",
     "image_url": ""
   }

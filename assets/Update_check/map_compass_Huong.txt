@@ -6,5 +6,7 @@
  	"package":"com.compass.app.pro",
  	"package_add_1":"com.map.distance",
  	"package_add_1_enable":0,
+	"search_address_provider": "osm",
+	"is_mapbox_used":true,
  	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
 }
