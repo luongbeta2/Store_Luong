@@ -1,13 +1,14 @@
 {
-	"version_code": 44,
- 	"version_name":"2.23",
- 	"requested":true,
- 	"direction_hidden":true,
- 	"package":"com.map_pro.compass.app",
- 	"package_add_1":"com.map.measure2",
- 	"package_add_1_enable":0,
-	"number_start_app_direct_show_ads":3,
-	"search_address_provider": "osm",
-	"is_mapbox_used":true,
- 	"weatherAPI_URL":"http://api.openweathermap.org/data/2.5/"
+    "version_code": 103,
+    "version_name": "2.2.3",
+    "android_sdk_min_version_update_enable": 24,
+    "requested": true,
+    "direction_hidden": true,
+    "package": "com.map_pro.compass.app",
+    "package_add_1": "com.map.measure2",
+    "package_add_1_enable": 0,
+    "number_start_app_direct_show_ads": 3,
+    "search_address_provider": "osm",
+    "is_mapbox_used": true,
+    "weatherAPI_URL": "http://api.openweathermap.org/data/2.5/"
 }

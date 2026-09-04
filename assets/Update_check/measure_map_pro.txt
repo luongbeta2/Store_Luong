@@ -1,14 +1,15 @@
 {
-	"version_code": 21,
- 	"version_name":"1.21",
- 	"requested":true,
- 	"package":"com.map.measure.pro",
- 	"package_add_1":"com.map.distance",
- 	"package_add_1_enable":0,
-	"start_ad":0,
-	"number_start_app_direct_show_ads":2,
-	"app_removed":true,
-	"search_address_provider": "osm",
-	"is_mapbox_used":true,
-	"app_package_instead":"com.map.distance"
+    "version_code": 21,
+    "version_name": "1.21",
+    "android_sdk_min_version_update_enable": 24,
+    "requested": true,
+    "package": "com.map.measure.pro",
+    "package_add_1": "com.map.distance",
+    "package_add_1_enable": 0,
+    "start_ad": 0,
+    "number_start_app_direct_show_ads": 2,
+    "app_removed": true,
+    "search_address_provider": "osm",
+    "is_mapbox_used": true,
+    "app_package_instead": "com.map.distance"
 }
