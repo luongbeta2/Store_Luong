@@ -1,6 +1,6 @@
 {
-    "version_code": 170,
-    "version_name": "3.2.11",
+    "version_code": 171,
+    "version_name": "3.2.12",
     "android_sdk_min_version_update_enable": 24,
     "requested": true,
     "direction_hidden": true,

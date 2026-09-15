@@ -1,6 +1,6 @@
 {
-    "version_code": 103,
-    "version_name": "2.2.3",
+    "version_code": 104,
+    "version_name": "2.2.4",
     "android_sdk_min_version_update_enable": 24,
     "requested": true,
     "direction_hidden": true,

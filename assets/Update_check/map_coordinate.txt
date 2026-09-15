@@ -1,6 +1,6 @@
 {
-    "version_code": 95,
-    "version_name": "1.2.35",
+    "version_code": 97,
+    "version_name": "1.2.37",
     "android_sdk_min_version_update_enable": 24,
     "requested": true,
     "direction_hidden": true,
